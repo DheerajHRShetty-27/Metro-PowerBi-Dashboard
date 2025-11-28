@@ -1,0 +1,56 @@
+{
+  "name": "Bengaluru Metro - PurpleGreenYellow",
+  "dataColors": [
+    "#800080",
+    "#007F3D",
+    "#FFC300",
+    "#B266FF",
+    "#66CC99",
+    "#FFEA70",
+    "#333333",
+    "#666666",
+    "#F2F2F2",
+    "#FF4D4D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#800080",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#333333"
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "foreground": [
+          {
+            "solid": {
+              "color": "#333333"
+            }
+          }
+        ],
+        "label": [
+          {
+            "solid": {
+              "color": "#666666"
+            }
+          }
+        ],
+        "category": [
+          {
+            "solid": {
+              "color": "#666666"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

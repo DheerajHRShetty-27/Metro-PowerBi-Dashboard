@@ -1,0 +1,831 @@
+Date,Month_Name,Month_Number,Year,Line_Name,Station_Name,Entries (Lakhs),Exits (Lakhs),Total_Passengers (Lakhs),Avg_Fare (₹),Ticket_Revenue (₹ Cr),Card_Users (%),Token_Users (%),Occupancy (%),Operational_Status
+2025-01-31,January,1,2025,Purple Line,Challaghatta,1.182,1.25,2.432,35.3,0.858,64.0,36.0,41.4,Operational
+2025-01-31,January,1,2025,Purple Line,Kengeri,1.394,1.161,2.555,36.42,0.931,60.6,39.4,78.6,Operational
+2025-01-31,January,1,2025,Purple Line,Kengeri Bus Terminal,1.223,1.294,2.518,37.44,0.943,58.2,41.8,62.7,Operational
+2025-01-31,January,1,2025,Purple Line,Pattanagere,1.641,1.063,2.704,35.55,0.961,70.1,29.9,69.4,Operational
+2025-01-31,January,1,2025,Purple Line,Jnanabharathi,1.133,1.115,2.247,36.57,0.822,70.4,29.6,63.0,Operational
+2025-01-31,January,1,2025,Purple Line,Rajarajeshwari Nagar,1.449,1.23,2.679,35.7,0.956,70.3,29.7,51.4,Operational
+2025-01-31,January,1,2025,Purple Line,Pantharapalya - Nayandahalli,1.753,1.438,3.191,31.43,1.003,73.3,26.7,48.3,Operational
+2025-01-31,January,1,2025,Purple Line,Mysuru Road,1.537,1.561,3.098,32.54,1.008,75.7,24.3,65.0,Operational
+2025-01-31,January,1,2025,Purple Line,Deepanjali Nagar,1.544,1.694,3.238,34.26,1.109,62.0,38.0,49.3,Operational
+2025-01-31,January,1,2025,Purple Line,Attiguppe,1.217,1.339,2.555,36.02,0.92,70.2,29.8,69.9,Operational
+2025-01-31,January,1,2025,Purple Line,Vijayanagar,1.383,1.614,2.997,34.21,1.025,89.8,10.2,67.5,Operational
+2025-01-31,January,1,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",1.209,1.16,2.368,36.45,0.863,66.2,33.8,68.6,Operational
+2025-01-31,January,1,2025,Purple Line,Magadi Road,1.475,1.339,2.814,32.46,0.913,55.9,44.1,54.6,Operational
+2025-01-31,January,1,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.551,1.391,2.942,31.26,0.92,69.4,30.6,64.6,Operational
+2025-01-31,January,1,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.859,3.003,5.862,35.17,2.062,58.9,41.1,64.3,Operational
+2025-01-31,January,1,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.492,1.547,3.04,38.16,1.16,57.0,43.0,48.7,Operational
+2025-01-31,January,1,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.483,1.445,2.928,36.55,1.07,98.8,1.2,66.9,Operational
+2025-01-31,January,1,2025,Purple Line,Cubbon Park,1.607,1.524,3.131,36.95,1.157,65.5,34.5,69.1,Operational
+2025-01-31,January,1,2025,Purple Line,M.G. Road,1.225,1.31,2.535,33.54,0.85,68.7,31.3,87.8,Operational
+2025-01-31,January,1,2025,Purple Line,Trinity,1.007,1.476,2.482,30.16,0.749,64.2,35.8,73.1,Operational
+2025-01-31,January,1,2025,Purple Line,Halasuru,1.393,1.158,2.551,32.85,0.838,73.4,26.6,51.2,Operational
+2025-01-31,January,1,2025,Purple Line,Indiranagar,1.423,1.361,2.784,33.05,0.92,85.2,14.8,67.6,Operational
+2025-01-31,January,1,2025,Purple Line,Swami Vivekananda Road,0.975,1.386,2.361,33.01,0.779,74.8,25.2,50.5,Operational
+2025-01-31,January,1,2025,Purple Line,Baiyappanahalli,1.357,1.443,2.8,37.6,1.053,58.4,41.6,56.0,Operational
+2025-01-31,January,1,2025,Purple Line,Benniganahalli,1.285,1.235,2.52,40.3,1.016,71.2,28.8,44.9,Operational
+2025-01-31,January,1,2025,Purple Line,K.R. Pura,1.564,1.734,3.298,38.1,1.257,55.8,44.2,54.2,Operational
+2025-01-31,January,1,2025,Purple Line,Singayyanapalya,1.633,1.225,2.858,36.33,1.038,74.2,25.8,48.9,Operational
+2025-01-31,January,1,2025,Purple Line,Garudacharapalya,1.368,0.769,2.137,31.93,0.682,66.0,34.0,45.0,Operational
+2025-01-31,January,1,2025,Purple Line,Hoodi,1.706,1.095,2.801,33.68,0.943,69.0,31.0,77.3,Operational
+2025-01-31,January,1,2025,Purple Line,Seetharamapalya,1.093,1.562,2.655,35.03,0.93,60.1,39.9,65.5,Operational
+2025-01-31,January,1,2025,Purple Line,Kundalahalli,1.42,1.244,2.664,35.21,0.938,64.9,35.1,61.4,Operational
+2025-01-31,January,1,2025,Purple Line,Nallur Halli,1.512,1.638,3.15,31.29,0.986,85.1,14.9,36.6,Operational
+2025-01-31,January,1,2025,Purple Line,Sri Sathya Sai Hospital,1.35,1.458,2.808,35.84,1.006,63.0,37.0,57.5,Operational
+2025-01-31,January,1,2025,Purple Line,Pattandur Agrahara,1.281,1.246,2.528,37.55,0.949,70.9,29.1,51.7,Operational
+2025-01-31,January,1,2025,Purple Line,Kadugodi Tree Park,1.56,1.408,2.968,37.44,1.111,73.0,27.0,50.1,Operational
+2025-01-31,January,1,2025,Purple Line,Hopefarm Channasandra,1.268,1.487,2.755,36.83,1.015,67.8,32.2,61.4,Operational
+2025-01-31,January,1,2025,Purple Line,Whitefield (Kadugodi),1.636,1.246,2.881,36.64,1.056,66.4,33.6,57.4,Operational
+2025-01-31,January,1,2025,Green Line,Madavara,1.255,1.163,2.418,32.44,0.784,78.4,21.6,60.3,Operational
+2025-01-31,January,1,2025,Green Line,Chikkabidarakallu,1.171,0.958,2.13,30.97,0.66,67.0,33.0,61.2,Operational
+2025-01-31,January,1,2025,Green Line,Manjunatha Nagar,1.154,0.867,2.021,36.28,0.733,60.0,40.0,45.4,Operational
+2025-01-31,January,1,2025,Green Line,Nagasandra,1.267,1.157,2.423,31.87,0.772,73.0,27.0,59.9,Operational
+2025-01-31,January,1,2025,Green Line,Dasarahalli,0.856,1.028,1.883,27.97,0.527,75.8,24.2,58.2,Operational
+2025-01-31,January,1,2025,Green Line,Jalahalli,0.87,0.956,1.826,31.24,0.57,63.5,36.5,50.1,Operational
+2025-01-31,January,1,2025,Green Line,Peenya Industry,1.084,1.058,2.142,28.48,0.61,64.2,35.8,62.8,Operational
+2025-01-31,January,1,2025,Green Line,Peenya,0.745,0.761,1.506,27.84,0.419,66.3,33.7,63.7,Operational
+2025-01-31,January,1,2025,Green Line,Goragunte Palya,1.33,1.169,2.499,29.52,0.738,67.8,32.2,48.0,Operational
+2025-01-31,January,1,2025,Green Line,Yeshwanthpur,1.031,0.962,1.994,30.97,0.618,61.4,38.6,66.2,Operational
+2025-01-31,January,1,2025,Green Line,Sandal Soap Factory,1.342,0.995,2.336,31.21,0.729,73.5,26.5,55.2,Operational
+2025-01-31,January,1,2025,Green Line,Mahalakshmi,1.08,1.017,2.096,30.29,0.635,61.8,38.2,60.3,Operational
+2025-01-31,January,1,2025,Green Line,Rajajinagar,1.135,1.276,2.41,32.88,0.792,85.2,14.8,50.8,Operational
+2025-01-31,January,1,2025,Green Line,Mahakavi Kuvempu Road,1.209,1.047,2.257,36.57,0.825,61.5,38.5,49.9,Operational
+2025-01-31,January,1,2025,Green Line,Srirampura,0.915,0.632,1.547,28.42,0.44,61.9,38.1,61.8,Operational
+2025-01-31,January,1,2025,Green Line,Mantri Square Sampige Road,1.103,1.352,2.455,32.85,0.806,63.4,36.6,49.2,Operational
+2025-01-31,January,1,2025,Green Line,Chickpete,1.133,0.777,1.91,35.49,0.678,77.4,22.6,54.4,Operational
+2025-01-31,January,1,2025,Green Line,Krishna Rajendra Market,0.692,1.258,1.95,29.66,0.578,77.9,22.1,40.9,Operational
+2025-01-31,January,1,2025,Green Line,National College,0.915,1.015,1.93,30.14,0.582,64.4,35.6,67.5,Operational
+2025-01-31,January,1,2025,Green Line,Lalbagh,0.821,0.989,1.81,30.36,0.55,72.1,27.9,68.5,Operational
+2025-01-31,January,1,2025,Green Line,South End Circle,0.81,0.738,1.548,33.83,0.524,70.7,29.3,51.0,Operational
+2025-01-31,January,1,2025,Green Line,Jayanagar,1.345,1.035,2.38,33.54,0.798,68.5,31.5,84.7,Operational
+2025-01-31,January,1,2025,Green Line,Rashtreeya Vidyalaya Road,2.214,1.781,3.995,32.91,1.315,73.2,26.8,76.4,Operational
+2025-01-31,January,1,2025,Green Line,Banashankari,0.842,1.138,1.98,33.18,0.657,53.9,46.1,45.8,Operational
+2025-01-31,January,1,2025,Green Line,Jaya Prakash Nagar,0.627,0.966,1.593,32.15,0.512,80.0,20.0,60.9,Operational
+2025-01-31,January,1,2025,Green Line,Yelachenahalli,1.361,0.766,2.127,24.89,0.529,67.6,32.4,64.6,Operational
+2025-01-31,January,1,2025,Green Line,Konanakunte Cross,1.028,0.642,1.671,29.73,0.497,57.6,42.4,68.0,Operational
+2025-01-31,January,1,2025,Green Line,Doddakallasandra,1.108,0.845,1.953,28.46,0.556,59.5,40.5,59.2,Operational
+2025-01-31,January,1,2025,Green Line,Vajarahalli,1.226,0.837,2.063,31.51,0.65,63.8,36.2,50.5,Operational
+2025-01-31,January,1,2025,Green Line,Thalaghattapura,1.014,0.828,1.842,28.34,0.522,58.4,41.6,83.6,Operational
+2025-01-31,January,1,2025,Green Line,Silk Institute,1.042,0.888,1.93,30.64,0.591,67.1,32.9,57.3,Operational
+2025-01-31,January,1,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,29.54,0.0,74.1,25.9,53.6,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,26.56,0.0,65.8,34.2,32.4,Not Operational
+2025-01-31,January,1,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,24.21,0.0,78.9,21.1,79.7,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,27.38,0.0,72.6,27.4,63.7,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,35.7,0.0,77.0,23.0,58.5,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,25.61,0.0,55.1,44.9,62.4,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,26.11,0.0,56.6,43.4,52.2,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Singasandra,0.0,0.0,0.0,25.3,0.0,81.5,18.5,70.6,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,27.98,0.0,79.8,20.2,60.9,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,25.85,0.0,80.2,19.8,66.5,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Electronic City,0.0,0.0,0.0,25.41,0.0,66.5,33.5,49.5,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,24.54,0.0,75.4,24.6,82.9,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,24.5,0.0,72.5,27.5,52.2,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,26.78,0.0,63.3,36.7,49.6,Not Operational
+2025-01-31,January,1,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,28.12,0.0,61.4,38.6,63.2,Not Operational
+2025-02-28,February,2,2025,Purple Line,Challaghatta,1.19,1.133,2.323,32.28,0.75,63.4,36.6,69.1,Operational
+2025-02-28,February,2,2025,Purple Line,Kengeri,1.3,1.0,2.3,35.3,0.812,74.0,26.0,40.0,Operational
+2025-02-28,February,2,2025,Purple Line,Kengeri Bus Terminal,1.309,1.057,2.365,36.71,0.868,61.9,38.1,38.3,Operational
+2025-02-28,February,2,2025,Purple Line,Pattanagere,0.874,1.185,2.059,35.78,0.737,60.8,39.2,67.7,Operational
+2025-02-28,February,2,2025,Purple Line,Jnanabharathi,0.868,1.164,2.032,31.37,0.637,62.8,37.2,60.6,Operational
+2025-02-28,February,2,2025,Purple Line,Rajarajeshwari Nagar,1.028,1.107,2.135,38.02,0.812,63.4,36.6,70.0,Operational
+2025-02-28,February,2,2025,Purple Line,Pantharapalya - Nayandahalli,0.974,1.271,2.245,39.32,0.883,48.2,51.8,50.4,Operational
+2025-02-28,February,2,2025,Purple Line,Mysuru Road,1.315,1.139,2.455,36.11,0.887,63.2,36.8,61.0,Operational
+2025-02-28,February,2,2025,Purple Line,Deepanjali Nagar,1.169,1.386,2.555,35.76,0.914,70.7,29.3,55.1,Operational
+2025-02-28,February,2,2025,Purple Line,Attiguppe,1.102,1.098,2.201,36.18,0.796,64.6,35.4,63.5,Operational
+2025-02-28,February,2,2025,Purple Line,Vijayanagar,1.615,1.333,2.948,34.02,1.003,77.6,22.4,55.1,Operational
+2025-02-28,February,2,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",0.792,0.995,1.787,29.39,0.525,65.2,34.8,60.2,Operational
+2025-02-28,February,2,2025,Purple Line,Magadi Road,1.535,1.235,2.77,34.34,0.951,74.6,25.4,33.5,Operational
+2025-02-28,February,2,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.247,1.315,2.562,30.56,0.783,77.2,22.8,64.1,Operational
+2025-02-28,February,2,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.557,2.701,5.258,41.81,2.198,69.5,30.5,63.0,Operational
+2025-02-28,February,2,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.108,1.023,2.131,37.49,0.799,61.2,38.8,60.9,Operational
+2025-02-28,February,2,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.104,1.262,2.367,36.0,0.852,76.3,23.7,53.9,Operational
+2025-02-28,February,2,2025,Purple Line,Cubbon Park,1.146,1.0,2.146,33.67,0.723,71.0,29.0,69.1,Operational
+2025-02-28,February,2,2025,Purple Line,M.G. Road,1.016,1.333,2.348,39.07,0.917,71.3,28.7,82.5,Operational
+2025-02-28,February,2,2025,Purple Line,Trinity,1.045,0.952,1.997,29.66,0.592,80.0,20.0,67.9,Operational
+2025-02-28,February,2,2025,Purple Line,Halasuru,1.189,1.226,2.415,31.62,0.764,87.6,12.4,61.6,Operational
+2025-02-28,February,2,2025,Purple Line,Indiranagar,1.222,1.307,2.529,36.44,0.922,69.8,30.2,50.5,Operational
+2025-02-28,February,2,2025,Purple Line,Swami Vivekananda Road,1.294,1.515,2.809,39.04,1.097,80.7,19.3,53.9,Operational
+2025-02-28,February,2,2025,Purple Line,Baiyappanahalli,1.002,1.153,2.155,35.17,0.758,76.8,23.2,39.7,Operational
+2025-02-28,February,2,2025,Purple Line,Benniganahalli,1.506,1.148,2.653,33.72,0.895,59.9,40.1,40.1,Operational
+2025-02-28,February,2,2025,Purple Line,K.R. Pura,1.365,1.189,2.554,31.13,0.795,57.6,42.4,56.0,Operational
+2025-02-28,February,2,2025,Purple Line,Singayyanapalya,1.534,1.129,2.663,30.49,0.812,66.0,34.0,56.7,Operational
+2025-02-28,February,2,2025,Purple Line,Garudacharapalya,0.661,1.166,1.827,34.31,0.627,73.6,26.4,82.2,Operational
+2025-02-28,February,2,2025,Purple Line,Hoodi,1.425,1.128,2.553,31.68,0.809,88.6,11.4,60.7,Operational
+2025-02-28,February,2,2025,Purple Line,Seetharamapalya,1.203,1.172,2.374,35.59,0.845,66.8,33.2,53.1,Operational
+2025-02-28,February,2,2025,Purple Line,Kundalahalli,1.091,1.17,2.261,33.37,0.754,62.3,37.7,61.3,Operational
+2025-02-28,February,2,2025,Purple Line,Nallur Halli,1.149,1.447,2.596,27.05,0.702,76.7,23.3,75.0,Operational
+2025-02-28,February,2,2025,Purple Line,Sri Sathya Sai Hospital,0.785,1.114,1.9,33.89,0.644,56.7,43.3,50.7,Operational
+2025-02-28,February,2,2025,Purple Line,Pattandur Agrahara,0.978,1.491,2.469,37.81,0.934,78.2,21.8,68.7,Operational
+2025-02-28,February,2,2025,Purple Line,Kadugodi Tree Park,0.974,1.082,2.056,36.47,0.75,58.2,41.8,68.6,Operational
+2025-02-28,February,2,2025,Purple Line,Hopefarm Channasandra,1.152,1.109,2.26,37.13,0.839,71.6,28.4,55.7,Operational
+2025-02-28,February,2,2025,Purple Line,Whitefield (Kadugodi),1.432,0.981,2.413,36.85,0.889,72.7,27.3,56.3,Operational
+2025-02-28,February,2,2025,Green Line,Madavara,0.965,0.657,1.622,32.77,0.532,66.5,33.5,53.7,Operational
+2025-02-28,February,2,2025,Green Line,Chikkabidarakallu,1.11,0.755,1.865,25.77,0.481,55.5,44.5,67.3,Operational
+2025-02-28,February,2,2025,Green Line,Manjunatha Nagar,0.644,1.198,1.842,23.75,0.437,81.6,18.4,62.5,Operational
+2025-02-28,February,2,2025,Green Line,Nagasandra,0.881,0.784,1.665,31.2,0.519,67.7,32.3,73.2,Operational
+2025-02-28,February,2,2025,Green Line,Dasarahalli,0.923,0.909,1.832,28.91,0.53,67.5,32.5,63.7,Operational
+2025-02-28,February,2,2025,Green Line,Jalahalli,0.558,0.639,1.197,32.23,0.386,69.4,30.6,57.8,Operational
+2025-02-28,February,2,2025,Green Line,Peenya Industry,0.904,0.945,1.848,28.38,0.524,61.8,38.2,62.4,Operational
+2025-02-28,February,2,2025,Green Line,Peenya,0.704,0.955,1.66,24.89,0.413,76.2,23.8,65.7,Operational
+2025-02-28,February,2,2025,Green Line,Goragunte Palya,0.951,1.059,2.01,35.0,0.703,76.1,23.9,37.9,Operational
+2025-02-28,February,2,2025,Green Line,Yeshwanthpur,0.644,0.77,1.414,30.08,0.425,72.1,27.9,51.3,Operational
+2025-02-28,February,2,2025,Green Line,Sandal Soap Factory,0.937,0.746,1.683,28.17,0.474,56.7,43.3,48.9,Operational
+2025-02-28,February,2,2025,Green Line,Mahalakshmi,0.63,0.706,1.336,33.16,0.443,60.4,39.6,91.6,Operational
+2025-02-28,February,2,2025,Green Line,Rajajinagar,0.999,0.915,1.914,27.42,0.525,73.6,26.4,53.1,Operational
+2025-02-28,February,2,2025,Green Line,Mahakavi Kuvempu Road,0.924,1.343,2.267,29.71,0.674,77.2,22.8,51.6,Operational
+2025-02-28,February,2,2025,Green Line,Srirampura,0.893,1.201,2.094,28.12,0.589,82.5,17.5,68.5,Operational
+2025-02-28,February,2,2025,Green Line,Mantri Square Sampige Road,0.788,0.996,1.783,32.92,0.587,73.0,27.0,41.2,Operational
+2025-02-28,February,2,2025,Green Line,Chickpete,0.755,0.837,1.592,29.78,0.474,73.0,27.0,62.1,Operational
+2025-02-28,February,2,2025,Green Line,Krishna Rajendra Market,0.633,0.95,1.583,31.83,0.504,72.5,27.5,73.0,Operational
+2025-02-28,February,2,2025,Green Line,National College,1.067,0.965,2.031,29.79,0.605,54.7,45.3,65.2,Operational
+2025-02-28,February,2,2025,Green Line,Lalbagh,0.942,0.931,1.872,26.17,0.49,59.4,40.6,72.6,Operational
+2025-02-28,February,2,2025,Green Line,South End Circle,0.892,1.005,1.897,30.08,0.571,68.2,31.8,71.3,Operational
+2025-02-28,February,2,2025,Green Line,Jayanagar,0.797,0.899,1.696,28.61,0.485,64.5,35.5,56.3,Operational
+2025-02-28,February,2,2025,Green Line,Rashtreeya Vidyalaya Road,1.664,1.501,3.166,33.77,1.069,60.8,39.2,57.8,Operational
+2025-02-28,February,2,2025,Green Line,Banashankari,0.812,1.142,1.955,30.59,0.598,76.3,23.7,42.2,Operational
+2025-02-28,February,2,2025,Green Line,Jaya Prakash Nagar,0.953,1.042,1.996,30.25,0.604,76.5,23.5,53.8,Operational
+2025-02-28,February,2,2025,Green Line,Yelachenahalli,1.182,1.296,2.478,28.91,0.716,64.4,35.6,77.4,Operational
+2025-02-28,February,2,2025,Green Line,Konanakunte Cross,1.216,0.788,2.004,28.74,0.576,65.7,34.3,43.9,Operational
+2025-02-28,February,2,2025,Green Line,Doddakallasandra,0.716,0.701,1.418,27.7,0.393,67.7,32.3,62.8,Operational
+2025-02-28,February,2,2025,Green Line,Vajarahalli,1.21,0.702,1.912,32.95,0.63,66.3,33.7,59.4,Operational
+2025-02-28,February,2,2025,Green Line,Thalaghattapura,1.035,0.68,1.715,31.15,0.534,69.3,30.7,65.9,Operational
+2025-02-28,February,2,2025,Green Line,Silk Institute,0.958,1.324,2.282,28.09,0.641,63.8,36.2,52.5,Operational
+2025-02-28,February,2,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,26.61,0.0,62.9,37.1,74.3,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,31.55,0.0,63.4,36.6,50.0,Not Operational
+2025-02-28,February,2,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,29.18,0.0,63.6,36.4,67.6,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,28.51,0.0,55.9,44.1,78.6,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,32.49,0.0,63.1,36.9,55.3,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,28.71,0.0,70.7,29.3,67.9,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,33.03,0.0,66.6,33.4,50.4,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Singasandra,0.0,0.0,0.0,24.55,0.0,62.2,37.8,59.6,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,32.49,0.0,63.9,36.1,62.7,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,27.96,0.0,77.5,22.5,90.3,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Electronic City,0.0,0.0,0.0,26.67,0.0,64.1,35.9,72.5,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,29.7,0.0,82.8,17.2,67.0,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,27.1,0.0,72.7,27.3,73.3,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,30.05,0.0,72.1,27.9,72.8,Not Operational
+2025-02-28,February,2,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,30.92,0.0,79.1,20.9,67.8,Not Operational
+2025-03-31,March,3,2025,Purple Line,Challaghatta,1.167,1.202,2.369,38.62,0.915,61.5,38.5,64.4,Operational
+2025-03-31,March,3,2025,Purple Line,Kengeri,1.121,1.181,2.303,38.84,0.894,69.5,30.5,60.6,Operational
+2025-03-31,March,3,2025,Purple Line,Kengeri Bus Terminal,0.928,1.31,2.238,36.94,0.827,85.3,14.7,56.3,Operational
+2025-03-31,March,3,2025,Purple Line,Pattanagere,1.244,1.221,2.465,39.73,0.979,67.2,32.8,63.3,Operational
+2025-03-31,March,3,2025,Purple Line,Jnanabharathi,1.322,1.21,2.531,33.66,0.852,69.6,30.4,72.9,Operational
+2025-03-31,March,3,2025,Purple Line,Rajarajeshwari Nagar,0.995,1.2,2.195,32.9,0.722,77.6,22.4,41.7,Operational
+2025-03-31,March,3,2025,Purple Line,Pantharapalya - Nayandahalli,1.088,1.244,2.332,39.7,0.926,67.5,32.5,53.3,Operational
+2025-03-31,March,3,2025,Purple Line,Mysuru Road,1.576,0.915,2.492,28.4,0.708,71.5,28.5,54.0,Operational
+2025-03-31,March,3,2025,Purple Line,Deepanjali Nagar,0.996,1.304,2.299,35.73,0.821,63.5,36.5,44.6,Operational
+2025-03-31,March,3,2025,Purple Line,Attiguppe,1.374,1.293,2.668,34.7,0.926,82.8,17.2,47.2,Operational
+2025-03-31,March,3,2025,Purple Line,Vijayanagar,0.895,1.051,1.946,34.86,0.678,69.9,30.1,57.1,Operational
+2025-03-31,March,3,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",1.27,0.951,2.221,39.33,0.874,67.3,32.7,73.4,Operational
+2025-03-31,March,3,2025,Purple Line,Magadi Road,1.269,1.258,2.527,36.71,0.928,71.6,28.4,67.7,Operational
+2025-03-31,March,3,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.466,1.211,2.677,37.13,0.994,67.3,32.7,77.3,Operational
+2025-03-31,March,3,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.505,2.911,5.416,34.88,1.889,56.6,43.4,61.5,Operational
+2025-03-31,March,3,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.064,1.327,2.391,33.04,0.79,64.4,35.6,37.3,Operational
+2025-03-31,March,3,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.11,0.74,1.849,30.25,0.559,74.1,25.9,69.4,Operational
+2025-03-31,March,3,2025,Purple Line,Cubbon Park,1.285,1.002,2.287,34.86,0.797,68.0,32.0,46.1,Operational
+2025-03-31,March,3,2025,Purple Line,M.G. Road,1.501,1.334,2.835,34.34,0.974,68.2,31.8,62.5,Operational
+2025-03-31,March,3,2025,Purple Line,Trinity,0.792,1.132,1.923,32.95,0.634,60.0,40.0,56.6,Operational
+2025-03-31,March,3,2025,Purple Line,Halasuru,1.56,1.291,2.851,33.29,0.949,72.6,27.4,76.8,Operational
+2025-03-31,March,3,2025,Purple Line,Indiranagar,1.385,1.187,2.572,33.06,0.85,73.6,26.4,64.7,Operational
+2025-03-31,March,3,2025,Purple Line,Swami Vivekananda Road,1.379,1.29,2.669,38.15,1.018,63.7,36.3,75.8,Operational
+2025-03-31,March,3,2025,Purple Line,Baiyappanahalli,1.24,1.55,2.789,32.93,0.918,81.9,18.1,62.4,Operational
+2025-03-31,March,3,2025,Purple Line,Benniganahalli,1.07,1.089,2.159,34.04,0.735,71.4,28.6,66.3,Operational
+2025-03-31,March,3,2025,Purple Line,K.R. Pura,1.085,1.172,2.257,41.43,0.935,81.8,18.2,65.2,Operational
+2025-03-31,March,3,2025,Purple Line,Singayyanapalya,1.208,1.198,2.405,36.84,0.886,59.8,40.2,56.9,Operational
+2025-03-31,March,3,2025,Purple Line,Garudacharapalya,0.866,1.248,2.114,36.94,0.781,64.1,35.9,78.9,Operational
+2025-03-31,March,3,2025,Purple Line,Hoodi,0.955,0.912,1.867,35.67,0.666,76.4,23.6,80.2,Operational
+2025-03-31,March,3,2025,Purple Line,Seetharamapalya,1.108,1.37,2.478,34.88,0.864,66.6,33.4,70.6,Operational
+2025-03-31,March,3,2025,Purple Line,Kundalahalli,1.33,0.892,2.223,39.43,0.877,79.0,21.0,52.5,Operational
+2025-03-31,March,3,2025,Purple Line,Nallur Halli,1.279,1.265,2.544,35.78,0.91,63.6,36.4,51.9,Operational
+2025-03-31,March,3,2025,Purple Line,Sri Sathya Sai Hospital,1.195,1.387,2.582,36.63,0.946,65.0,35.0,69.3,Operational
+2025-03-31,March,3,2025,Purple Line,Pattandur Agrahara,0.63,1.383,2.013,29.78,0.599,65.1,34.9,46.6,Operational
+2025-03-31,March,3,2025,Purple Line,Kadugodi Tree Park,0.941,1.385,2.326,33.6,0.782,70.8,29.2,59.4,Operational
+2025-03-31,March,3,2025,Purple Line,Hopefarm Channasandra,1.295,1.19,2.485,31.15,0.774,76.0,24.0,54.1,Operational
+2025-03-31,March,3,2025,Purple Line,Whitefield (Kadugodi),0.889,1.099,1.988,39.5,0.785,74.8,25.2,55.8,Operational
+2025-03-31,March,3,2025,Green Line,Madavara,0.83,0.824,1.654,36.23,0.599,71.1,28.9,65.2,Operational
+2025-03-31,March,3,2025,Green Line,Chikkabidarakallu,1.106,0.925,2.031,29.22,0.593,66.4,33.6,59.1,Operational
+2025-03-31,March,3,2025,Green Line,Manjunatha Nagar,0.893,1.013,1.906,30.16,0.575,73.9,26.1,59.0,Operational
+2025-03-31,March,3,2025,Green Line,Nagasandra,0.916,0.522,1.438,32.75,0.471,70.8,29.2,72.0,Operational
+2025-03-31,March,3,2025,Green Line,Dasarahalli,0.321,1.258,1.579,29.58,0.467,76.9,23.1,47.5,Operational
+2025-03-31,March,3,2025,Green Line,Jalahalli,1.023,0.692,1.715,28.13,0.482,83.3,16.7,57.7,Operational
+2025-03-31,March,3,2025,Green Line,Peenya Industry,0.943,1.039,1.982,31.49,0.624,69.2,30.8,64.4,Operational
+2025-03-31,March,3,2025,Green Line,Peenya,1.381,0.872,2.252,30.6,0.689,76.4,23.6,73.3,Operational
+2025-03-31,March,3,2025,Green Line,Goragunte Palya,1.137,0.997,2.134,26.57,0.567,81.1,18.9,46.2,Operational
+2025-03-31,March,3,2025,Green Line,Yeshwanthpur,0.961,0.746,1.707,29.81,0.509,70.6,29.4,63.9,Operational
+2025-03-31,March,3,2025,Green Line,Sandal Soap Factory,0.984,1.172,2.157,31.36,0.676,66.0,34.0,71.6,Operational
+2025-03-31,March,3,2025,Green Line,Mahalakshmi,1.138,0.661,1.799,31.79,0.572,73.6,26.4,56.4,Operational
+2025-03-31,March,3,2025,Green Line,Rajajinagar,1.175,0.855,2.03,30.38,0.617,66.6,33.4,60.2,Operational
+2025-03-31,March,3,2025,Green Line,Mahakavi Kuvempu Road,0.681,0.623,1.304,34.78,0.454,61.2,38.8,48.1,Operational
+2025-03-31,March,3,2025,Green Line,Srirampura,0.469,0.767,1.236,26.03,0.322,81.1,18.9,72.1,Operational
+2025-03-31,March,3,2025,Green Line,Mantri Square Sampige Road,0.762,1.287,2.05,32.95,0.675,65.4,34.6,30.0,Operational
+2025-03-31,March,3,2025,Green Line,Chickpete,1.358,0.632,1.99,25.06,0.499,76.2,23.8,89.3,Operational
+2025-03-31,March,3,2025,Green Line,Krishna Rajendra Market,1.177,0.984,2.16,31.78,0.686,74.8,25.2,69.1,Operational
+2025-03-31,March,3,2025,Green Line,National College,0.956,0.901,1.857,29.81,0.554,62.0,38.0,56.6,Operational
+2025-03-31,March,3,2025,Green Line,Lalbagh,0.561,0.864,1.426,27.03,0.385,59.2,40.8,62.2,Operational
+2025-03-31,March,3,2025,Green Line,South End Circle,1.178,1.047,2.226,25.29,0.563,60.1,39.9,71.3,Operational
+2025-03-31,March,3,2025,Green Line,Jayanagar,0.704,0.842,1.545,31.65,0.489,60.3,39.7,61.3,Operational
+2025-03-31,March,3,2025,Green Line,Rashtreeya Vidyalaya Road,1.353,1.479,2.833,30.96,0.877,55.3,44.7,65.3,Operational
+2025-03-31,March,3,2025,Green Line,Banashankari,0.896,0.981,1.878,30.67,0.576,78.9,21.1,61.5,Operational
+2025-03-31,March,3,2025,Green Line,Jaya Prakash Nagar,0.814,0.904,1.718,31.63,0.543,68.4,31.6,60.5,Operational
+2025-03-31,March,3,2025,Green Line,Yelachenahalli,0.76,0.763,1.522,25.79,0.393,82.0,18.0,45.1,Operational
+2025-03-31,March,3,2025,Green Line,Konanakunte Cross,0.761,0.753,1.514,32.68,0.495,65.6,34.4,75.0,Operational
+2025-03-31,March,3,2025,Green Line,Doddakallasandra,0.765,0.932,1.698,27.49,0.467,85.2,14.8,45.7,Operational
+2025-03-31,March,3,2025,Green Line,Vajarahalli,0.962,0.996,1.958,31.24,0.612,66.5,33.5,58.4,Operational
+2025-03-31,March,3,2025,Green Line,Thalaghattapura,0.909,0.856,1.764,32.89,0.58,85.7,14.3,53.3,Operational
+2025-03-31,March,3,2025,Green Line,Silk Institute,0.626,0.866,1.492,37.74,0.563,61.6,38.4,79.7,Operational
+2025-03-31,March,3,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,32.19,0.0,63.6,36.4,66.8,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,32.07,0.0,65.0,35.0,57.6,Not Operational
+2025-03-31,March,3,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,26.55,0.0,59.9,40.1,52.2,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,24.94,0.0,68.3,31.7,50.8,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,28.58,0.0,55.6,44.4,64.0,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,30.08,0.0,52.1,47.9,64.5,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,31.07,0.0,58.3,41.7,80.1,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Singasandra,0.0,0.0,0.0,29.05,0.0,62.4,37.6,59.3,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,29.4,0.0,68.6,31.4,66.5,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,25.7,0.0,69.4,30.6,43.0,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Electronic City,0.0,0.0,0.0,27.72,0.0,60.8,39.2,51.2,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,31.09,0.0,76.7,23.3,67.3,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,25.27,0.0,65.5,34.5,74.6,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,28.35,0.0,86.6,13.4,64.7,Not Operational
+2025-03-31,March,3,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,28.48,0.0,65.5,34.5,61.6,Not Operational
+2025-04-30,April,4,2025,Purple Line,Challaghatta,1.17,1.303,2.473,37.87,0.937,61.7,38.3,44.0,Operational
+2025-04-30,April,4,2025,Purple Line,Kengeri,0.833,1.267,2.1,31.69,0.665,50.8,49.2,64.7,Operational
+2025-04-30,April,4,2025,Purple Line,Kengeri Bus Terminal,1.699,1.175,2.874,37.52,1.078,68.7,31.3,58.8,Operational
+2025-04-30,April,4,2025,Purple Line,Pattanagere,1.384,1.124,2.508,35.8,0.898,70.6,29.4,52.0,Operational
+2025-04-30,April,4,2025,Purple Line,Jnanabharathi,1.398,1.145,2.543,32.73,0.832,72.3,27.7,49.2,Operational
+2025-04-30,April,4,2025,Purple Line,Rajarajeshwari Nagar,1.206,1.174,2.38,38.26,0.911,71.8,28.2,59.7,Operational
+2025-04-30,April,4,2025,Purple Line,Pantharapalya - Nayandahalli,1.364,1.426,2.79,36.67,1.023,68.1,31.9,44.3,Operational
+2025-04-30,April,4,2025,Purple Line,Mysuru Road,0.987,1.121,2.108,33.17,0.699,66.5,33.5,60.7,Operational
+2025-04-30,April,4,2025,Purple Line,Deepanjali Nagar,1.306,1.163,2.469,36.46,0.9,68.5,31.5,36.3,Operational
+2025-04-30,April,4,2025,Purple Line,Attiguppe,1.012,1.15,2.162,31.37,0.678,72.8,27.2,78.4,Operational
+2025-04-30,April,4,2025,Purple Line,Vijayanagar,1.444,1.138,2.581,39.47,1.019,69.2,30.8,56.0,Operational
+2025-04-30,April,4,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",1.077,1.122,2.199,33.84,0.744,69.4,30.6,61.9,Operational
+2025-04-30,April,4,2025,Purple Line,Magadi Road,1.201,1.255,2.455,38.57,0.947,75.6,24.4,42.2,Operational
+2025-04-30,April,4,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,0.689,1.344,2.033,30.9,0.628,66.2,33.8,46.0,Operational
+2025-04-30,April,4,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.28,2.685,4.964,37.28,1.851,63.4,36.6,28.9,Operational
+2025-04-30,April,4,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.091,1.247,2.337,30.56,0.714,69.5,30.5,59.8,Operational
+2025-04-30,April,4,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.316,1.198,2.513,32.08,0.806,77.6,22.4,58.1,Operational
+2025-04-30,April,4,2025,Purple Line,Cubbon Park,1.195,1.008,2.203,33.67,0.742,60.9,39.1,57.9,Operational
+2025-04-30,April,4,2025,Purple Line,M.G. Road,1.542,0.929,2.471,30.16,0.745,79.8,20.2,57.5,Operational
+2025-04-30,April,4,2025,Purple Line,Trinity,1.066,1.363,2.429,33.18,0.806,82.6,17.4,68.1,Operational
+2025-04-30,April,4,2025,Purple Line,Halasuru,1.102,1.564,2.667,33.18,0.885,73.9,26.1,63.6,Operational
+2025-04-30,April,4,2025,Purple Line,Indiranagar,1.46,1.457,2.917,35.1,1.024,62.0,38.0,65.5,Operational
+2025-04-30,April,4,2025,Purple Line,Swami Vivekananda Road,1.064,1.538,2.603,35.41,0.922,65.1,34.9,62.2,Operational
+2025-04-30,April,4,2025,Purple Line,Baiyappanahalli,0.931,1.001,1.932,38.6,0.746,62.7,37.3,47.4,Operational
+2025-04-30,April,4,2025,Purple Line,Benniganahalli,1.307,1.389,2.697,37.16,1.002,76.0,24.0,50.9,Operational
+2025-04-30,April,4,2025,Purple Line,K.R. Pura,0.916,1.446,2.362,34.03,0.804,66.0,34.0,75.9,Operational
+2025-04-30,April,4,2025,Purple Line,Singayyanapalya,1.311,1.258,2.569,41.5,1.066,62.9,37.1,71.1,Operational
+2025-04-30,April,4,2025,Purple Line,Garudacharapalya,1.211,1.224,2.436,39.59,0.964,72.1,27.9,66.5,Operational
+2025-04-30,April,4,2025,Purple Line,Hoodi,1.415,1.11,2.525,32.48,0.82,59.6,40.4,36.4,Operational
+2025-04-30,April,4,2025,Purple Line,Seetharamapalya,1.611,0.977,2.589,34.34,0.889,65.8,34.2,63.7,Operational
+2025-04-30,April,4,2025,Purple Line,Kundalahalli,1.363,1.331,2.694,33.25,0.896,66.7,33.3,63.4,Operational
+2025-04-30,April,4,2025,Purple Line,Nallur Halli,1.15,1.465,2.616,36.47,0.954,73.9,26.1,68.0,Operational
+2025-04-30,April,4,2025,Purple Line,Sri Sathya Sai Hospital,1.435,1.209,2.643,31.11,0.822,71.2,28.8,52.2,Operational
+2025-04-30,April,4,2025,Purple Line,Pattandur Agrahara,1.094,1.282,2.376,38.71,0.92,68.2,31.8,63.7,Operational
+2025-04-30,April,4,2025,Purple Line,Kadugodi Tree Park,1.54,1.219,2.76,42.81,1.182,72.5,27.5,38.9,Operational
+2025-04-30,April,4,2025,Purple Line,Hopefarm Channasandra,1.351,1.245,2.595,38.87,1.009,73.4,26.6,58.3,Operational
+2025-04-30,April,4,2025,Purple Line,Whitefield (Kadugodi),0.955,1.138,2.094,32.45,0.68,63.4,36.6,67.1,Operational
+2025-04-30,April,4,2025,Green Line,Madavara,1.234,0.953,2.187,26.41,0.578,71.6,28.4,74.4,Operational
+2025-04-30,April,4,2025,Green Line,Chikkabidarakallu,0.778,0.858,1.636,30.04,0.491,61.7,38.3,67.8,Operational
+2025-04-30,April,4,2025,Green Line,Manjunatha Nagar,0.876,0.958,1.833,27.34,0.501,64.5,35.5,68.7,Operational
+2025-04-30,April,4,2025,Green Line,Nagasandra,0.825,1.193,2.018,28.8,0.581,69.8,30.2,71.2,Operational
+2025-04-30,April,4,2025,Green Line,Dasarahalli,0.616,0.565,1.181,25.42,0.3,78.1,21.9,53.4,Operational
+2025-04-30,April,4,2025,Green Line,Jalahalli,1.412,0.78,2.192,30.55,0.67,80.3,19.7,84.1,Operational
+2025-04-30,April,4,2025,Green Line,Peenya Industry,1.312,1.1,2.412,33.07,0.798,72.7,27.3,69.3,Operational
+2025-04-30,April,4,2025,Green Line,Peenya,0.79,0.735,1.524,29.99,0.457,66.6,33.4,54.6,Operational
+2025-04-30,April,4,2025,Green Line,Goragunte Palya,1.039,1.054,2.093,30.27,0.634,79.8,20.2,46.3,Operational
+2025-04-30,April,4,2025,Green Line,Yeshwanthpur,0.861,0.753,1.614,24.4,0.394,67.3,32.7,58.5,Operational
+2025-04-30,April,4,2025,Green Line,Sandal Soap Factory,1.203,0.996,2.198,26.93,0.592,82.8,17.2,74.7,Operational
+2025-04-30,April,4,2025,Green Line,Mahalakshmi,1.016,0.841,1.858,27.12,0.504,65.0,35.0,73.1,Operational
+2025-04-30,April,4,2025,Green Line,Rajajinagar,1.277,1.16,2.437,28.53,0.695,59.0,41.0,61.7,Operational
+2025-04-30,April,4,2025,Green Line,Mahakavi Kuvempu Road,0.546,0.94,1.486,29.56,0.439,64.3,35.7,40.9,Operational
+2025-04-30,April,4,2025,Green Line,Srirampura,1.003,0.786,1.789,26.49,0.474,45.0,55.0,59.7,Operational
+2025-04-30,April,4,2025,Green Line,Mantri Square Sampige Road,1.254,1.181,2.435,28.63,0.697,63.2,36.8,65.6,Operational
+2025-04-30,April,4,2025,Green Line,Chickpete,0.7,0.936,1.637,32.3,0.529,77.8,22.2,58.8,Operational
+2025-04-30,April,4,2025,Green Line,Krishna Rajendra Market,0.859,0.724,1.583,27.52,0.436,66.2,33.8,64.4,Operational
+2025-04-30,April,4,2025,Green Line,National College,1.083,0.737,1.82,34.48,0.628,65.8,34.2,59.7,Operational
+2025-04-30,April,4,2025,Green Line,Lalbagh,0.751,0.446,1.196,32.65,0.39,73.9,26.1,56.6,Operational
+2025-04-30,April,4,2025,Green Line,South End Circle,0.913,0.975,1.888,25.31,0.478,63.8,36.2,69.5,Operational
+2025-04-30,April,4,2025,Green Line,Jayanagar,0.649,0.935,1.584,25.93,0.411,71.7,28.3,59.6,Operational
+2025-04-30,April,4,2025,Green Line,Rashtreeya Vidyalaya Road,1.297,1.797,3.094,27.8,0.86,61.5,38.5,62.4,Operational
+2025-04-30,April,4,2025,Green Line,Banashankari,1.13,0.699,1.829,30.19,0.552,71.4,28.6,68.3,Operational
+2025-04-30,April,4,2025,Green Line,Jaya Prakash Nagar,0.935,0.816,1.751,27.52,0.482,68.7,31.3,47.1,Operational
+2025-04-30,April,4,2025,Green Line,Yelachenahalli,0.316,0.961,1.276,32.71,0.417,49.1,50.9,47.9,Operational
+2025-04-30,April,4,2025,Green Line,Konanakunte Cross,1.024,1.252,2.276,30.06,0.684,62.2,37.8,57.8,Operational
+2025-04-30,April,4,2025,Green Line,Doddakallasandra,1.175,0.766,1.941,27.6,0.536,64.1,35.9,48.6,Operational
+2025-04-30,April,4,2025,Green Line,Vajarahalli,0.925,1.174,2.099,30.97,0.65,66.0,34.0,56.5,Operational
+2025-04-30,April,4,2025,Green Line,Thalaghattapura,0.587,1.041,1.628,29.77,0.485,66.6,33.4,98.3,Operational
+2025-04-30,April,4,2025,Green Line,Silk Institute,0.96,0.747,1.706,28.72,0.49,77.2,22.8,61.4,Operational
+2025-04-30,April,4,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,24.4,0.0,75.4,24.6,52.0,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,32.68,0.0,76.6,23.4,54.6,Not Operational
+2025-04-30,April,4,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,31.2,0.0,68.5,31.5,70.2,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,29.21,0.0,61.2,38.8,52.3,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,30.57,0.0,65.3,34.7,55.2,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,25.61,0.0,71.4,28.6,84.8,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,25.33,0.0,68.2,31.8,76.9,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Singasandra,0.0,0.0,0.0,27.8,0.0,71.6,28.4,47.3,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,29.07,0.0,66.5,33.5,71.8,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,30.97,0.0,88.7,11.3,67.0,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Electronic City,0.0,0.0,0.0,28.81,0.0,69.6,30.4,55.8,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,28.85,0.0,65.6,34.4,62.0,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,31.29,0.0,59.9,40.1,73.7,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,31.29,0.0,67.1,32.9,34.5,Not Operational
+2025-04-30,April,4,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,26.48,0.0,78.4,21.6,59.7,Not Operational
+2025-05-31,May,5,2025,Purple Line,Challaghatta,1.0,1.085,2.085,37.52,0.782,72.4,27.6,57.1,Operational
+2025-05-31,May,5,2025,Purple Line,Kengeri,1.127,1.105,2.232,32.23,0.719,80.9,19.1,56.1,Operational
+2025-05-31,May,5,2025,Purple Line,Kengeri Bus Terminal,1.443,1.45,2.893,37.99,1.099,64.5,35.5,64.8,Operational
+2025-05-31,May,5,2025,Purple Line,Pattanagere,1.195,1.013,2.208,35.97,0.794,58.6,41.4,74.3,Operational
+2025-05-31,May,5,2025,Purple Line,Jnanabharathi,1.107,1.212,2.319,35.85,0.831,65.9,34.1,67.0,Operational
+2025-05-31,May,5,2025,Purple Line,Rajarajeshwari Nagar,1.105,1.333,2.438,30.96,0.755,69.0,31.0,83.3,Operational
+2025-05-31,May,5,2025,Purple Line,Pantharapalya - Nayandahalli,1.0,1.054,2.054,36.54,0.751,69.4,30.6,64.2,Operational
+2025-05-31,May,5,2025,Purple Line,Mysuru Road,1.298,1.29,2.588,38.33,0.992,71.3,28.7,57.1,Operational
+2025-05-31,May,5,2025,Purple Line,Deepanjali Nagar,1.335,1.518,2.852,34.6,0.987,60.2,39.8,73.3,Operational
+2025-05-31,May,5,2025,Purple Line,Attiguppe,1.176,0.785,1.961,37.54,0.736,63.7,36.3,58.9,Operational
+2025-05-31,May,5,2025,Purple Line,Vijayanagar,1.266,1.21,2.477,37.13,0.92,64.5,35.5,66.2,Operational
+2025-05-31,May,5,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",1.148,1.309,2.457,36.85,0.905,60.5,39.5,73.0,Operational
+2025-05-31,May,5,2025,Purple Line,Magadi Road,1.093,1.321,2.414,36.1,0.871,82.7,17.3,57.3,Operational
+2025-05-31,May,5,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.13,1.173,2.303,34.09,0.785,74.4,25.6,40.6,Operational
+2025-05-31,May,5,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.429,2.395,4.824,37.85,1.826,81.7,18.3,58.7,Operational
+2025-05-31,May,5,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.166,1.189,2.355,38.49,0.906,60.6,39.4,62.9,Operational
+2025-05-31,May,5,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.395,1.266,2.661,35.57,0.947,76.0,24.0,27.6,Operational
+2025-05-31,May,5,2025,Purple Line,Cubbon Park,1.336,1.058,2.394,29.51,0.706,72.1,27.9,76.5,Operational
+2025-05-31,May,5,2025,Purple Line,M.G. Road,1.173,1.348,2.52,39.84,1.004,78.5,21.5,79.7,Operational
+2025-05-31,May,5,2025,Purple Line,Trinity,1.348,1.19,2.538,30.19,0.766,66.0,34.0,49.9,Operational
+2025-05-31,May,5,2025,Purple Line,Halasuru,1.634,1.144,2.779,35.37,0.983,72.4,27.6,60.5,Operational
+2025-05-31,May,5,2025,Purple Line,Indiranagar,1.539,1.064,2.603,35.58,0.926,62.1,37.9,44.2,Operational
+2025-05-31,May,5,2025,Purple Line,Swami Vivekananda Road,1.078,1.169,2.247,33.71,0.757,62.5,37.5,43.1,Operational
+2025-05-31,May,5,2025,Purple Line,Baiyappanahalli,1.183,0.905,2.089,37.28,0.779,68.7,31.3,42.5,Operational
+2025-05-31,May,5,2025,Purple Line,Benniganahalli,1.138,1.041,2.179,35.96,0.784,78.7,21.3,37.5,Operational
+2025-05-31,May,5,2025,Purple Line,K.R. Pura,1.223,1.147,2.37,37.01,0.877,69.7,30.3,51.0,Operational
+2025-05-31,May,5,2025,Purple Line,Singayyanapalya,1.136,1.033,2.169,38.23,0.829,68.2,31.8,82.8,Operational
+2025-05-31,May,5,2025,Purple Line,Garudacharapalya,1.188,1.048,2.236,30.46,0.681,53.6,46.4,41.0,Operational
+2025-05-31,May,5,2025,Purple Line,Hoodi,1.253,1.268,2.521,30.26,0.763,75.2,24.8,54.2,Operational
+2025-05-31,May,5,2025,Purple Line,Seetharamapalya,1.229,1.466,2.696,37.69,1.016,65.9,34.1,49.3,Operational
+2025-05-31,May,5,2025,Purple Line,Kundalahalli,0.77,1.047,1.816,34.37,0.624,60.1,39.9,58.4,Operational
+2025-05-31,May,5,2025,Purple Line,Nallur Halli,1.215,1.136,2.351,33.05,0.777,69.3,30.7,65.3,Operational
+2025-05-31,May,5,2025,Purple Line,Sri Sathya Sai Hospital,0.982,1.43,2.412,34.7,0.837,68.2,31.8,68.5,Operational
+2025-05-31,May,5,2025,Purple Line,Pattandur Agrahara,1.247,1.348,2.594,35.86,0.93,63.1,36.9,64.3,Operational
+2025-05-31,May,5,2025,Purple Line,Kadugodi Tree Park,0.971,1.196,2.167,34.9,0.756,66.3,33.7,58.5,Operational
+2025-05-31,May,5,2025,Purple Line,Hopefarm Channasandra,0.824,1.077,1.901,35.28,0.671,69.3,30.7,47.7,Operational
+2025-05-31,May,5,2025,Purple Line,Whitefield (Kadugodi),1.453,1.02,2.473,37.91,0.938,71.4,28.6,52.2,Operational
+2025-05-31,May,5,2025,Green Line,Madavara,1.255,0.667,1.922,32.76,0.63,76.0,24.0,52.0,Operational
+2025-05-31,May,5,2025,Green Line,Chikkabidarakallu,1.178,0.837,2.015,30.87,0.622,70.1,29.9,58.4,Operational
+2025-05-31,May,5,2025,Green Line,Manjunatha Nagar,1.062,1.025,2.087,24.75,0.517,78.4,21.6,40.1,Operational
+2025-05-31,May,5,2025,Green Line,Nagasandra,1.107,1.085,2.191,26.73,0.586,64.7,35.3,46.7,Operational
+2025-05-31,May,5,2025,Green Line,Dasarahalli,0.857,0.827,1.684,32.34,0.545,78.5,21.5,76.7,Operational
+2025-05-31,May,5,2025,Green Line,Jalahalli,0.788,0.844,1.632,24.95,0.407,61.6,38.4,71.6,Operational
+2025-05-31,May,5,2025,Green Line,Peenya Industry,1.223,0.66,1.883,28.22,0.531,67.8,32.2,63.4,Operational
+2025-05-31,May,5,2025,Green Line,Peenya,0.738,0.958,1.696,28.58,0.485,67.9,32.1,66.6,Operational
+2025-05-31,May,5,2025,Green Line,Goragunte Palya,0.901,0.803,1.705,29.67,0.506,67.3,32.7,55.6,Operational
+2025-05-31,May,5,2025,Green Line,Yeshwanthpur,0.848,1.17,2.018,31.68,0.639,65.6,34.4,68.4,Operational
+2025-05-31,May,5,2025,Green Line,Sandal Soap Factory,0.833,1.093,1.926,31.11,0.599,67.1,32.9,65.4,Operational
+2025-05-31,May,5,2025,Green Line,Mahalakshmi,0.586,0.679,1.265,26.42,0.334,69.1,30.9,80.8,Operational
+2025-05-31,May,5,2025,Green Line,Rajajinagar,1.346,0.997,2.343,31.5,0.738,53.6,46.4,53.5,Operational
+2025-05-31,May,5,2025,Green Line,Mahakavi Kuvempu Road,0.742,0.77,1.513,29.5,0.446,64.2,35.8,36.2,Operational
+2025-05-31,May,5,2025,Green Line,Srirampura,1.05,0.689,1.738,30.72,0.534,84.6,15.4,49.0,Operational
+2025-05-31,May,5,2025,Green Line,Mantri Square Sampige Road,0.394,0.831,1.224,33.3,0.408,83.7,16.3,45.2,Operational
+2025-05-31,May,5,2025,Green Line,Chickpete,0.999,0.798,1.798,29.68,0.534,89.2,10.8,42.0,Operational
+2025-05-31,May,5,2025,Green Line,Krishna Rajendra Market,0.951,0.966,1.917,33.26,0.638,68.8,31.2,63.7,Operational
+2025-05-31,May,5,2025,Green Line,National College,0.822,0.93,1.752,28.97,0.508,73.0,27.0,55.6,Operational
+2025-05-31,May,5,2025,Green Line,Lalbagh,0.975,0.877,1.852,33.38,0.618,67.6,32.4,38.7,Operational
+2025-05-31,May,5,2025,Green Line,South End Circle,1.152,0.719,1.871,28.04,0.525,63.2,36.8,76.5,Operational
+2025-05-31,May,5,2025,Green Line,Jayanagar,0.473,1.447,1.92,33.17,0.637,69.8,30.2,59.3,Operational
+2025-05-31,May,5,2025,Green Line,Rashtreeya Vidyalaya Road,1.677,1.681,3.359,31.94,1.073,72.4,27.6,61.1,Operational
+2025-05-31,May,5,2025,Green Line,Banashankari,0.861,0.855,1.715,29.42,0.505,77.1,22.9,67.1,Operational
+2025-05-31,May,5,2025,Green Line,Jaya Prakash Nagar,0.312,1.0,1.312,30.58,0.401,67.9,32.1,55.3,Operational
+2025-05-31,May,5,2025,Green Line,Yelachenahalli,1.125,1.053,2.177,27.68,0.603,71.3,28.7,48.3,Operational
+2025-05-31,May,5,2025,Green Line,Konanakunte Cross,0.624,0.769,1.393,32.59,0.454,75.6,24.4,66.2,Operational
+2025-05-31,May,5,2025,Green Line,Doddakallasandra,1.045,0.975,2.02,28.08,0.567,71.5,28.5,69.6,Operational
+2025-05-31,May,5,2025,Green Line,Vajarahalli,1.051,1.096,2.147,32.12,0.69,70.8,29.2,72.8,Operational
+2025-05-31,May,5,2025,Green Line,Thalaghattapura,0.895,0.723,1.618,29.51,0.477,62.0,38.0,51.9,Operational
+2025-05-31,May,5,2025,Green Line,Silk Institute,0.871,0.739,1.61,29.08,0.468,52.9,47.1,62.6,Operational
+2025-05-31,May,5,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,28.0,0.0,61.5,38.5,67.9,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,30.34,0.0,55.1,44.9,50.8,Not Operational
+2025-05-31,May,5,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,26.08,0.0,60.5,39.5,70.0,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,27.52,0.0,65.9,34.1,36.0,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,29.59,0.0,58.1,41.9,60.7,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,28.69,0.0,78.9,21.1,44.3,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,20.45,0.0,69.5,30.5,81.6,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Singasandra,0.0,0.0,0.0,31.1,0.0,69.7,30.3,54.1,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,30.02,0.0,60.2,39.8,65.7,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,29.26,0.0,76.5,23.5,93.1,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Electronic City,0.0,0.0,0.0,28.98,0.0,63.9,36.1,59.7,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,23.58,0.0,62.4,37.6,55.1,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,26.69,0.0,69.2,30.8,50.1,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,30.8,0.0,68.0,32.0,59.9,Not Operational
+2025-05-31,May,5,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,27.18,0.0,69.2,30.8,69.9,Not Operational
+2025-06-30,June,6,2025,Purple Line,Challaghatta,0.847,0.881,1.728,34.09,0.589,57.2,42.8,50.2,Operational
+2025-06-30,June,6,2025,Purple Line,Kengeri,0.925,1.157,2.082,35.79,0.745,69.5,30.5,70.2,Operational
+2025-06-30,June,6,2025,Purple Line,Kengeri Bus Terminal,0.993,1.07,2.062,34.69,0.715,70.1,29.9,53.0,Operational
+2025-06-30,June,6,2025,Purple Line,Pattanagere,0.532,0.975,1.508,39.27,0.592,75.4,24.6,71.6,Operational
+2025-06-30,June,6,2025,Purple Line,Jnanabharathi,1.267,1.016,2.283,35.59,0.813,63.1,36.9,56.2,Operational
+2025-06-30,June,6,2025,Purple Line,Rajarajeshwari Nagar,1.143,1.216,2.359,34.58,0.816,64.4,35.6,60.0,Operational
+2025-06-30,June,6,2025,Purple Line,Pantharapalya - Nayandahalli,1.14,0.74,1.88,28.11,0.528,63.6,36.4,45.4,Operational
+2025-06-30,June,6,2025,Purple Line,Mysuru Road,0.918,0.973,1.891,33.64,0.636,79.6,20.4,63.9,Operational
+2025-06-30,June,6,2025,Purple Line,Deepanjali Nagar,1.08,1.112,2.192,31.58,0.692,76.3,23.7,59.1,Operational
+2025-06-30,June,6,2025,Purple Line,Attiguppe,1.154,0.807,1.961,30.34,0.595,74.5,25.5,64.5,Operational
+2025-06-30,June,6,2025,Purple Line,Vijayanagar,0.84,0.843,1.683,38.38,0.646,58.5,41.5,79.7,Operational
+2025-06-30,June,6,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",0.84,1.115,1.954,34.01,0.665,72.8,27.2,53.5,Operational
+2025-06-30,June,6,2025,Purple Line,Magadi Road,0.987,1.007,1.994,31.99,0.638,73.9,26.1,53.8,Operational
+2025-06-30,June,6,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,0.974,0.821,1.795,27.31,0.49,66.5,33.5,89.0,Operational
+2025-06-30,June,6,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.401,2.196,4.597,34.21,1.573,68.2,31.8,66.6,Operational
+2025-06-30,June,6,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",0.784,1.2,1.984,37.15,0.737,73.7,26.3,65.3,Operational
+2025-06-30,June,6,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.024,1.121,2.145,36.78,0.789,65.2,34.8,53.1,Operational
+2025-06-30,June,6,2025,Purple Line,Cubbon Park,1.04,1.278,2.319,31.28,0.725,56.3,43.7,62.0,Operational
+2025-06-30,June,6,2025,Purple Line,M.G. Road,1.03,1.031,2.061,35.73,0.736,66.2,33.8,77.9,Operational
+2025-06-30,June,6,2025,Purple Line,Trinity,0.7,0.85,1.55,34.69,0.538,54.9,45.1,57.9,Operational
+2025-06-30,June,6,2025,Purple Line,Halasuru,1.352,1.003,2.356,35.69,0.841,57.9,42.1,52.6,Operational
+2025-06-30,June,6,2025,Purple Line,Indiranagar,0.945,0.942,1.887,38.84,0.733,72.5,27.5,46.7,Operational
+2025-06-30,June,6,2025,Purple Line,Swami Vivekananda Road,1.069,1.089,2.159,38.42,0.829,80.6,19.4,47.8,Operational
+2025-06-30,June,6,2025,Purple Line,Baiyappanahalli,0.858,0.773,1.631,34.3,0.559,71.7,28.3,71.8,Operational
+2025-06-30,June,6,2025,Purple Line,Benniganahalli,1.005,0.942,1.947,35.46,0.69,61.3,38.7,85.1,Operational
+2025-06-30,June,6,2025,Purple Line,K.R. Pura,0.698,1.033,1.731,41.07,0.711,68.1,31.9,57.7,Operational
+2025-06-30,June,6,2025,Purple Line,Singayyanapalya,0.949,0.967,1.916,39.12,0.75,50.3,49.7,78.4,Operational
+2025-06-30,June,6,2025,Purple Line,Garudacharapalya,0.735,0.952,1.687,33.71,0.569,72.7,27.3,40.8,Operational
+2025-06-30,June,6,2025,Purple Line,Hoodi,1.112,1.364,2.476,30.91,0.765,69.5,30.5,52.1,Operational
+2025-06-30,June,6,2025,Purple Line,Seetharamapalya,1.105,1.003,2.108,33.08,0.697,71.9,28.1,81.7,Operational
+2025-06-30,June,6,2025,Purple Line,Kundalahalli,0.982,1.129,2.111,31.12,0.657,60.3,39.7,65.7,Operational
+2025-06-30,June,6,2025,Purple Line,Nallur Halli,1.317,1.064,2.38,34.06,0.811,68.0,32.0,45.0,Operational
+2025-06-30,June,6,2025,Purple Line,Sri Sathya Sai Hospital,1.141,1.158,2.299,33.64,0.773,64.2,35.8,63.2,Operational
+2025-06-30,June,6,2025,Purple Line,Pattandur Agrahara,0.933,0.988,1.92,41.3,0.793,66.0,34.0,55.7,Operational
+2025-06-30,June,6,2025,Purple Line,Kadugodi Tree Park,0.89,1.134,2.024,34.46,0.697,62.8,37.2,75.9,Operational
+2025-06-30,June,6,2025,Purple Line,Hopefarm Channasandra,1.304,0.892,2.195,29.4,0.645,76.1,23.9,51.8,Operational
+2025-06-30,June,6,2025,Purple Line,Whitefield (Kadugodi),1.178,0.645,1.823,37.68,0.687,58.3,41.7,68.8,Operational
+2025-06-30,June,6,2025,Green Line,Madavara,0.768,0.578,1.346,28.78,0.387,73.5,26.5,61.3,Operational
+2025-06-30,June,6,2025,Green Line,Chikkabidarakallu,0.882,1.105,1.987,25.31,0.503,80.9,19.1,61.3,Operational
+2025-06-30,June,6,2025,Green Line,Manjunatha Nagar,0.585,0.51,1.095,29.43,0.322,75.4,24.6,58.5,Operational
+2025-06-30,June,6,2025,Green Line,Nagasandra,1.067,0.488,1.556,29.96,0.466,58.0,42.0,64.4,Operational
+2025-06-30,June,6,2025,Green Line,Dasarahalli,0.942,0.674,1.616,22.19,0.359,69.6,30.4,65.2,Operational
+2025-06-30,June,6,2025,Green Line,Jalahalli,0.846,0.972,1.818,26.79,0.487,73.4,26.6,74.3,Operational
+2025-06-30,June,6,2025,Green Line,Peenya Industry,0.409,0.807,1.217,28.49,0.347,67.3,32.7,64.2,Operational
+2025-06-30,June,6,2025,Green Line,Peenya,0.668,0.628,1.296,30.1,0.39,59.3,40.7,47.0,Operational
+2025-06-30,June,6,2025,Green Line,Goragunte Palya,0.901,0.543,1.444,32.0,0.462,71.7,28.3,39.3,Operational
+2025-06-30,June,6,2025,Green Line,Yeshwanthpur,0.629,0.965,1.594,27.06,0.431,64.3,35.7,65.5,Operational
+2025-06-30,June,6,2025,Green Line,Sandal Soap Factory,0.922,0.704,1.626,28.21,0.459,79.4,20.6,80.9,Operational
+2025-06-30,June,6,2025,Green Line,Mahalakshmi,0.961,0.765,1.726,27.58,0.476,61.4,38.6,66.3,Operational
+2025-06-30,June,6,2025,Green Line,Rajajinagar,0.849,1.002,1.851,31.95,0.591,56.0,44.0,72.6,Operational
+2025-06-30,June,6,2025,Green Line,Mahakavi Kuvempu Road,0.565,0.681,1.246,30.75,0.383,84.0,16.0,97.3,Operational
+2025-06-30,June,6,2025,Green Line,Srirampura,0.886,0.717,1.603,31.6,0.507,75.1,24.9,56.2,Operational
+2025-06-30,June,6,2025,Green Line,Mantri Square Sampige Road,1.124,0.791,1.915,31.49,0.603,73.3,26.7,65.1,Operational
+2025-06-30,June,6,2025,Green Line,Chickpete,0.933,0.639,1.571,28.33,0.445,59.2,40.8,65.3,Operational
+2025-06-30,June,6,2025,Green Line,Krishna Rajendra Market,0.921,0.832,1.753,35.02,0.614,68.0,32.0,68.0,Operational
+2025-06-30,June,6,2025,Green Line,National College,0.547,0.68,1.227,32.09,0.394,74.8,25.2,56.5,Operational
+2025-06-30,June,6,2025,Green Line,Lalbagh,0.751,0.476,1.227,28.93,0.355,75.1,24.9,66.9,Operational
+2025-06-30,June,6,2025,Green Line,South End Circle,0.865,0.759,1.624,30.02,0.488,62.7,37.3,68.4,Operational
+2025-06-30,June,6,2025,Green Line,Jayanagar,0.849,0.838,1.687,28.42,0.479,50.8,49.2,73.2,Operational
+2025-06-30,June,6,2025,Green Line,Rashtreeya Vidyalaya Road,1.281,1.194,2.475,32.08,0.794,64.9,35.1,72.7,Operational
+2025-06-30,June,6,2025,Green Line,Banashankari,0.888,0.873,1.761,25.9,0.456,77.7,22.3,63.1,Operational
+2025-06-30,June,6,2025,Green Line,Jaya Prakash Nagar,0.691,0.776,1.467,24.67,0.362,71.3,28.7,47.6,Operational
+2025-06-30,June,6,2025,Green Line,Yelachenahalli,0.494,0.476,0.97,33.34,0.323,63.0,37.0,78.4,Operational
+2025-06-30,June,6,2025,Green Line,Konanakunte Cross,0.658,0.442,1.1,26.65,0.293,77.9,22.1,58.1,Operational
+2025-06-30,June,6,2025,Green Line,Doddakallasandra,0.655,0.779,1.434,31.51,0.452,76.9,23.1,77.4,Operational
+2025-06-30,June,6,2025,Green Line,Vajarahalli,0.693,0.511,1.204,28.76,0.346,70.1,29.9,48.4,Operational
+2025-06-30,June,6,2025,Green Line,Thalaghattapura,0.574,0.812,1.385,29.85,0.413,68.3,31.7,50.9,Operational
+2025-06-30,June,6,2025,Green Line,Silk Institute,0.719,0.583,1.302,32.67,0.425,76.3,23.7,37.8,Operational
+2025-06-30,June,6,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,25.68,0.0,56.0,44.0,52.2,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,27.79,0.0,56.4,43.6,48.9,Not Operational
+2025-06-30,June,6,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,25.49,0.0,69.7,30.3,60.8,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,26.2,0.0,69.4,30.6,53.4,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,27.32,0.0,81.4,18.6,76.1,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,24.75,0.0,74.6,25.4,69.7,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,25.13,0.0,74.6,25.4,78.5,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Singasandra,0.0,0.0,0.0,25.19,0.0,60.7,39.3,72.2,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,28.68,0.0,72.4,27.6,64.1,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,28.98,0.0,57.4,42.6,72.6,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Electronic City,0.0,0.0,0.0,30.92,0.0,66.2,33.8,59.5,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,24.17,0.0,72.1,27.9,66.9,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,27.84,0.0,77.0,23.0,56.0,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,29.41,0.0,59.8,40.2,59.7,Not Operational
+2025-06-30,June,6,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,27.56,0.0,69.8,30.2,55.6,Not Operational
+2025-07-31,July,7,2025,Purple Line,Challaghatta,0.994,1.148,2.142,33.69,0.722,55.1,44.9,81.0,Operational
+2025-07-31,July,7,2025,Purple Line,Kengeri,1.296,0.767,2.063,37.07,0.765,64.0,36.0,63.2,Operational
+2025-07-31,July,7,2025,Purple Line,Kengeri Bus Terminal,1.079,0.957,2.036,32.65,0.665,62.5,37.5,49.0,Operational
+2025-07-31,July,7,2025,Purple Line,Pattanagere,0.854,0.988,1.841,32.85,0.605,73.5,26.5,77.8,Operational
+2025-07-31,July,7,2025,Purple Line,Jnanabharathi,0.904,1.043,1.947,36.5,0.711,71.8,28.2,60.9,Operational
+2025-07-31,July,7,2025,Purple Line,Rajarajeshwari Nagar,1.169,1.086,2.255,31.29,0.706,75.0,25.0,70.6,Operational
+2025-07-31,July,7,2025,Purple Line,Pantharapalya - Nayandahalli,0.867,1.006,1.874,37.05,0.694,66.3,33.7,72.9,Operational
+2025-07-31,July,7,2025,Purple Line,Mysuru Road,1.493,0.858,2.351,30.86,0.726,70.4,29.6,68.7,Operational
+2025-07-31,July,7,2025,Purple Line,Deepanjali Nagar,0.974,1.261,2.235,30.98,0.692,73.5,26.5,52.7,Operational
+2025-07-31,July,7,2025,Purple Line,Attiguppe,1.364,1.358,2.722,32.7,0.89,63.6,36.4,70.3,Operational
+2025-07-31,July,7,2025,Purple Line,Vijayanagar,0.943,0.991,1.934,35.08,0.678,52.6,47.4,59.8,Operational
+2025-07-31,July,7,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",0.882,0.911,1.793,39.33,0.705,57.9,42.1,69.8,Operational
+2025-07-31,July,7,2025,Purple Line,Magadi Road,0.964,0.949,1.913,37.37,0.715,70.7,29.3,66.8,Operational
+2025-07-31,July,7,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.214,0.94,2.154,33.16,0.714,59.3,40.7,50.1,Operational
+2025-07-31,July,7,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.834,2.423,5.257,30.95,1.627,57.4,42.6,65.8,Operational
+2025-07-31,July,7,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.129,1.098,2.228,34.24,0.763,67.0,33.0,63.9,Operational
+2025-07-31,July,7,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.037,0.6,1.637,34.31,0.562,61.2,38.8,62.1,Operational
+2025-07-31,July,7,2025,Purple Line,Cubbon Park,1.617,1.066,2.683,34.06,0.914,75.4,24.6,65.8,Operational
+2025-07-31,July,7,2025,Purple Line,M.G. Road,1.104,1.109,2.213,41.17,0.911,59.0,41.0,65.7,Operational
+2025-07-31,July,7,2025,Purple Line,Trinity,0.835,1.1,1.934,32.24,0.624,64.7,35.3,56.5,Operational
+2025-07-31,July,7,2025,Purple Line,Halasuru,1.215,1.165,2.38,31.26,0.744,68.4,31.6,51.5,Operational
+2025-07-31,July,7,2025,Purple Line,Indiranagar,0.768,0.961,1.729,34.07,0.589,87.4,12.6,65.2,Operational
+2025-07-31,July,7,2025,Purple Line,Swami Vivekananda Road,0.744,0.898,1.642,38.06,0.625,84.7,15.3,41.0,Operational
+2025-07-31,July,7,2025,Purple Line,Baiyappanahalli,0.644,1.336,1.98,36.17,0.716,61.1,38.9,66.4,Operational
+2025-07-31,July,7,2025,Purple Line,Benniganahalli,0.493,1.0,1.493,35.98,0.537,75.4,24.6,47.8,Operational
+2025-07-31,July,7,2025,Purple Line,K.R. Pura,1.037,0.833,1.87,35.77,0.669,60.8,39.2,55.1,Operational
+2025-07-31,July,7,2025,Purple Line,Singayyanapalya,0.821,1.117,1.938,37.58,0.728,66.1,33.9,60.5,Operational
+2025-07-31,July,7,2025,Purple Line,Garudacharapalya,0.73,0.946,1.676,34.85,0.584,89.0,11.0,46.7,Operational
+2025-07-31,July,7,2025,Purple Line,Hoodi,1.313,1.179,2.492,35.84,0.893,82.1,17.9,64.5,Operational
+2025-07-31,July,7,2025,Purple Line,Seetharamapalya,1.098,0.99,2.088,38.67,0.807,76.8,23.2,52.5,Operational
+2025-07-31,July,7,2025,Purple Line,Kundalahalli,0.756,0.963,1.719,32.6,0.56,67.5,32.5,74.8,Operational
+2025-07-31,July,7,2025,Purple Line,Nallur Halli,0.929,0.992,1.92,35.17,0.675,74.8,25.2,33.0,Operational
+2025-07-31,July,7,2025,Purple Line,Sri Sathya Sai Hospital,0.899,1.038,1.936,38.6,0.747,64.1,35.9,37.5,Operational
+2025-07-31,July,7,2025,Purple Line,Pattandur Agrahara,1.144,0.885,2.029,31.43,0.638,63.0,37.0,57.8,Operational
+2025-07-31,July,7,2025,Purple Line,Kadugodi Tree Park,0.899,0.603,1.502,37.69,0.566,78.2,21.8,67.8,Operational
+2025-07-31,July,7,2025,Purple Line,Hopefarm Channasandra,0.792,0.963,1.756,34.98,0.614,72.8,27.2,68.0,Operational
+2025-07-31,July,7,2025,Purple Line,Whitefield (Kadugodi),0.873,1.014,1.888,36.37,0.687,79.6,20.4,68.5,Operational
+2025-07-31,July,7,2025,Green Line,Madavara,0.923,0.765,1.688,34.23,0.578,71.3,28.7,49.7,Operational
+2025-07-31,July,7,2025,Green Line,Chikkabidarakallu,1.046,0.875,1.921,28.67,0.551,64.2,35.8,63.6,Operational
+2025-07-31,July,7,2025,Green Line,Manjunatha Nagar,0.858,0.785,1.643,30.93,0.508,81.6,18.4,72.9,Operational
+2025-07-31,July,7,2025,Green Line,Nagasandra,0.803,0.919,1.722,26.9,0.463,71.2,28.8,81.7,Operational
+2025-07-31,July,7,2025,Green Line,Dasarahalli,0.721,0.597,1.319,28.04,0.37,59.3,40.7,50.6,Operational
+2025-07-31,July,7,2025,Green Line,Jalahalli,0.691,0.497,1.188,30.05,0.357,75.2,24.8,49.1,Operational
+2025-07-31,July,7,2025,Green Line,Peenya Industry,1.069,0.842,1.91,33.09,0.632,62.7,37.3,70.3,Operational
+2025-07-31,July,7,2025,Green Line,Peenya,0.547,0.91,1.457,30.52,0.445,72.4,27.6,45.9,Operational
+2025-07-31,July,7,2025,Green Line,Goragunte Palya,0.586,0.857,1.443,27.15,0.392,71.7,28.3,43.6,Operational
+2025-07-31,July,7,2025,Green Line,Yeshwanthpur,0.935,0.528,1.462,31.66,0.463,73.0,27.0,51.6,Operational
+2025-07-31,July,7,2025,Green Line,Sandal Soap Factory,0.881,0.797,1.678,28.38,0.476,59.9,40.1,36.4,Operational
+2025-07-31,July,7,2025,Green Line,Mahalakshmi,0.835,0.468,1.303,30.29,0.395,65.9,34.1,68.1,Operational
+2025-07-31,July,7,2025,Green Line,Rajajinagar,0.705,0.69,1.395,32.2,0.449,70.7,29.3,63.8,Operational
+2025-07-31,July,7,2025,Green Line,Mahakavi Kuvempu Road,0.859,0.473,1.332,32.27,0.43,72.9,27.1,47.8,Operational
+2025-07-31,July,7,2025,Green Line,Srirampura,0.716,0.743,1.459,29.6,0.432,70.7,29.3,77.2,Operational
+2025-07-31,July,7,2025,Green Line,Mantri Square Sampige Road,0.981,0.514,1.495,31.87,0.476,78.6,21.4,64.6,Operational
+2025-07-31,July,7,2025,Green Line,Chickpete,0.983,1.112,2.095,33.07,0.693,70.0,30.0,72.5,Operational
+2025-07-31,July,7,2025,Green Line,Krishna Rajendra Market,0.794,0.754,1.548,28.95,0.448,80.5,19.5,50.2,Operational
+2025-07-31,July,7,2025,Green Line,National College,1.071,0.84,1.911,25.8,0.493,70.9,29.1,34.8,Operational
+2025-07-31,July,7,2025,Green Line,Lalbagh,0.89,0.909,1.799,28.22,0.508,69.0,31.0,83.4,Operational
+2025-07-31,July,7,2025,Green Line,South End Circle,0.664,0.559,1.223,34.44,0.421,83.7,16.3,60.0,Operational
+2025-07-31,July,7,2025,Green Line,Jayanagar,0.967,0.991,1.958,27.77,0.544,64.1,35.9,74.8,Operational
+2025-07-31,July,7,2025,Green Line,Rashtreeya Vidyalaya Road,1.714,1.451,3.165,27.36,0.866,83.9,16.1,53.6,Operational
+2025-07-31,July,7,2025,Green Line,Banashankari,0.698,0.811,1.509,34.66,0.523,74.8,25.2,65.0,Operational
+2025-07-31,July,7,2025,Green Line,Jaya Prakash Nagar,0.858,0.758,1.615,31.67,0.511,47.8,52.2,56.4,Operational
+2025-07-31,July,7,2025,Green Line,Yelachenahalli,0.813,0.543,1.356,31.16,0.423,66.4,33.6,81.1,Operational
+2025-07-31,July,7,2025,Green Line,Konanakunte Cross,1.08,0.666,1.745,29.55,0.516,67.4,32.6,54.6,Operational
+2025-07-31,July,7,2025,Green Line,Doddakallasandra,0.804,0.613,1.417,26.61,0.377,73.0,27.0,67.6,Operational
+2025-07-31,July,7,2025,Green Line,Vajarahalli,0.604,0.911,1.515,28.11,0.426,70.0,30.0,69.8,Operational
+2025-07-31,July,7,2025,Green Line,Thalaghattapura,0.758,0.832,1.59,28.45,0.452,66.4,33.6,57.5,Operational
+2025-07-31,July,7,2025,Green Line,Silk Institute,0.616,0.718,1.334,25.35,0.338,64.1,35.9,56.6,Operational
+2025-07-31,July,7,2025,Yellow Line,Ragigudda,0.0,0.0,0.0,27.36,0.0,66.1,33.9,59.3,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Jayadeva Hospital,0.0,0.0,0.0,29.2,0.0,75.0,25.0,52.2,Not Operational
+2025-07-31,July,7,2025,Yellow Line,BTM Layout,0.0,0.0,0.0,24.99,0.0,59.7,40.3,54.2,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Central Silk Board,0.0,0.0,0.0,27.12,0.0,61.8,38.2,44.4,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Bommanahalli,0.0,0.0,0.0,26.86,0.0,69.5,30.5,67.1,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Hongasandra,0.0,0.0,0.0,26.61,0.0,64.7,35.3,48.9,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Kudlu Gate,0.0,0.0,0.0,27.92,0.0,61.2,38.8,66.9,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Singasandra,0.0,0.0,0.0,23.54,0.0,65.1,34.9,63.6,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Hosa Road,0.0,0.0,0.0,28.46,0.0,89.5,10.5,64.2,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Beratena Agrahara,0.0,0.0,0.0,25.49,0.0,67.2,32.8,38.7,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Electronic City,0.0,0.0,0.0,27.8,0.0,61.3,38.7,71.0,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.0,0.0,0.0,26.63,0.0,67.1,32.9,52.4,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Huskur Road,0.0,0.0,0.0,32.35,0.0,65.4,34.6,82.0,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Biocon Hebbagodi,0.0,0.0,0.0,30.04,0.0,71.9,28.1,64.4,Not Operational
+2025-07-31,July,7,2025,Yellow Line,Delta Electronics Bommasandra,0.0,0.0,0.0,28.98,0.0,52.6,47.4,56.7,Not Operational
+2025-08-31,August,8,2025,Purple Line,Challaghatta,1.369,1.167,2.536,30.78,0.781,67.6,32.4,80.4,Operational
+2025-08-31,August,8,2025,Purple Line,Kengeri,1.449,1.165,2.614,37.85,0.989,65.1,34.9,39.6,Operational
+2025-08-31,August,8,2025,Purple Line,Kengeri Bus Terminal,1.015,1.457,2.472,34.18,0.845,66.1,33.9,56.4,Operational
+2025-08-31,August,8,2025,Purple Line,Pattanagere,1.581,1.469,3.049,41.66,1.27,66.7,33.3,63.5,Operational
+2025-08-31,August,8,2025,Purple Line,Jnanabharathi,0.897,1.442,2.339,31.5,0.737,69.7,30.3,46.8,Operational
+2025-08-31,August,8,2025,Purple Line,Rajarajeshwari Nagar,1.082,1.025,2.108,33.18,0.699,63.7,36.3,53.4,Operational
+2025-08-31,August,8,2025,Purple Line,Pantharapalya - Nayandahalli,1.367,0.977,2.344,35.66,0.836,77.7,22.3,53.8,Operational
+2025-08-31,August,8,2025,Purple Line,Mysuru Road,1.056,1.135,2.191,38.54,0.844,69.6,30.4,53.6,Operational
+2025-08-31,August,8,2025,Purple Line,Deepanjali Nagar,1.297,0.978,2.274,37.04,0.842,71.3,28.7,56.3,Operational
+2025-08-31,August,8,2025,Purple Line,Attiguppe,1.032,1.016,2.049,36.6,0.75,77.8,22.2,52.4,Operational
+2025-08-31,August,8,2025,Purple Line,Vijayanagar,1.292,0.8,2.092,33.25,0.696,67.8,32.2,49.1,Operational
+2025-08-31,August,8,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",1.013,1.056,2.068,35.88,0.742,66.5,33.5,33.1,Operational
+2025-08-31,August,8,2025,Purple Line,Magadi Road,0.776,1.067,1.843,36.37,0.67,46.0,54.0,54.0,Operational
+2025-08-31,August,8,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.095,1.426,2.521,33.84,0.853,71.1,28.9,61.7,Operational
+2025-08-31,August,8,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.214,2.725,4.939,35.65,1.761,72.1,27.9,107.1,Operational
+2025-08-31,August,8,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",0.783,1.486,2.27,34.14,0.775,70.3,29.7,59.5,Operational
+2025-08-31,August,8,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.115,1.073,2.189,35.99,0.788,55.9,44.1,69.0,Operational
+2025-08-31,August,8,2025,Purple Line,Cubbon Park,1.117,0.973,2.089,33.65,0.703,78.1,21.9,53.6,Operational
+2025-08-31,August,8,2025,Purple Line,M.G. Road,1.272,1.044,2.316,37.27,0.863,73.5,26.5,82.2,Operational
+2025-08-31,August,8,2025,Purple Line,Trinity,1.165,1.296,2.461,35.29,0.868,78.4,21.6,51.4,Operational
+2025-08-31,August,8,2025,Purple Line,Halasuru,1.349,1.141,2.49,34.81,0.867,68.7,31.3,63.0,Operational
+2025-08-31,August,8,2025,Purple Line,Indiranagar,1.177,1.215,2.391,39.73,0.95,75.9,24.1,70.4,Operational
+2025-08-31,August,8,2025,Purple Line,Swami Vivekananda Road,1.109,1.016,2.125,37.87,0.805,75.0,25.0,77.7,Operational
+2025-08-31,August,8,2025,Purple Line,Baiyappanahalli,1.079,1.135,2.214,30.08,0.666,64.9,35.1,72.0,Operational
+2025-08-31,August,8,2025,Purple Line,Benniganahalli,1.107,1.291,2.398,34.43,0.826,70.6,29.4,46.2,Operational
+2025-08-31,August,8,2025,Purple Line,K.R. Pura,1.217,0.638,1.855,34.44,0.639,55.0,45.0,74.5,Operational
+2025-08-31,August,8,2025,Purple Line,Singayyanapalya,1.355,1.26,2.615,39.56,1.034,60.4,39.6,81.0,Operational
+2025-08-31,August,8,2025,Purple Line,Garudacharapalya,1.386,1.133,2.52,38.41,0.968,59.1,40.9,50.1,Operational
+2025-08-31,August,8,2025,Purple Line,Hoodi,1.078,1.081,2.159,31.83,0.687,77.8,22.2,56.9,Operational
+2025-08-31,August,8,2025,Purple Line,Seetharamapalya,1.271,1.073,2.344,29.54,0.692,70.2,29.8,37.1,Operational
+2025-08-31,August,8,2025,Purple Line,Kundalahalli,1.186,0.93,2.116,40.96,0.867,75.3,24.7,61.3,Operational
+2025-08-31,August,8,2025,Purple Line,Nallur Halli,1.453,1.024,2.476,36.63,0.907,69.6,30.4,63.2,Operational
+2025-08-31,August,8,2025,Purple Line,Sri Sathya Sai Hospital,1.454,1.308,2.762,35.87,0.991,54.8,45.2,48.5,Operational
+2025-08-31,August,8,2025,Purple Line,Pattandur Agrahara,1.175,1.193,2.368,31.61,0.749,87.3,12.7,78.2,Operational
+2025-08-31,August,8,2025,Purple Line,Kadugodi Tree Park,1.32,1.189,2.509,34.36,0.862,60.4,39.6,60.9,Operational
+2025-08-31,August,8,2025,Purple Line,Hopefarm Channasandra,1.252,0.952,2.204,36.0,0.793,66.8,33.2,37.1,Operational
+2025-08-31,August,8,2025,Purple Line,Whitefield (Kadugodi),1.028,1.102,2.129,40.66,0.866,72.5,27.5,44.0,Operational
+2025-08-31,August,8,2025,Green Line,Madavara,0.997,0.603,1.601,33.25,0.532,64.2,35.8,58.9,Operational
+2025-08-31,August,8,2025,Green Line,Chikkabidarakallu,1.165,0.65,1.815,25.81,0.468,63.3,36.7,72.5,Operational
+2025-08-31,August,8,2025,Green Line,Manjunatha Nagar,0.596,0.372,0.968,28.65,0.277,72.4,27.6,74.4,Operational
+2025-08-31,August,8,2025,Green Line,Nagasandra,0.807,0.808,1.615,33.46,0.54,53.0,47.0,55.3,Operational
+2025-08-31,August,8,2025,Green Line,Dasarahalli,0.938,0.963,1.901,28.47,0.541,68.3,31.7,30.1,Operational
+2025-08-31,August,8,2025,Green Line,Jalahalli,0.768,0.964,1.732,27.05,0.469,68.5,31.5,65.4,Operational
+2025-08-31,August,8,2025,Green Line,Peenya Industry,0.831,0.913,1.744,27.11,0.473,66.3,33.7,67.3,Operational
+2025-08-31,August,8,2025,Green Line,Peenya,0.931,0.776,1.708,30.67,0.524,73.7,26.3,35.4,Operational
+2025-08-31,August,8,2025,Green Line,Goragunte Palya,1.132,0.821,1.953,31.28,0.611,77.6,22.4,43.5,Operational
+2025-08-31,August,8,2025,Green Line,Yeshwanthpur,0.758,0.83,1.588,27.65,0.439,81.9,18.1,49.7,Operational
+2025-08-31,August,8,2025,Green Line,Sandal Soap Factory,0.789,0.919,1.708,26.39,0.451,64.8,35.2,63.8,Operational
+2025-08-31,August,8,2025,Green Line,Mahalakshmi,0.833,0.865,1.699,28.41,0.483,55.9,44.1,63.9,Operational
+2025-08-31,August,8,2025,Green Line,Rajajinagar,1.251,0.885,2.136,30.68,0.655,73.5,26.5,44.8,Operational
+2025-08-31,August,8,2025,Green Line,Mahakavi Kuvempu Road,1.241,0.918,2.159,34.9,0.753,62.1,37.9,81.8,Operational
+2025-08-31,August,8,2025,Green Line,Srirampura,1.055,0.982,2.037,30.7,0.625,66.0,34.0,74.4,Operational
+2025-08-31,August,8,2025,Green Line,Mantri Square Sampige Road,0.928,0.528,1.456,26.65,0.388,66.5,33.5,63.7,Operational
+2025-08-31,August,8,2025,Green Line,Chickpete,0.889,1.101,1.99,24.15,0.481,69.1,30.9,38.2,Operational
+2025-08-31,August,8,2025,Green Line,Krishna Rajendra Market,1.052,0.865,1.917,31.26,0.599,61.1,38.9,75.4,Operational
+2025-08-31,August,8,2025,Green Line,National College,1.108,0.987,2.095,29.61,0.62,72.6,27.4,51.5,Operational
+2025-08-31,August,8,2025,Green Line,Lalbagh,1.071,1.179,2.25,33.21,0.747,62.2,37.8,64.3,Operational
+2025-08-31,August,8,2025,Green Line,South End Circle,0.641,0.985,1.626,31.35,0.51,53.0,47.0,46.1,Operational
+2025-08-31,August,8,2025,Green Line,Jayanagar,0.843,0.828,1.671,26.37,0.441,71.1,28.9,63.0,Operational
+2025-08-31,August,8,2025,Green Line,Rashtreeya Vidyalaya Road,1.581,1.452,3.033,33.15,1.005,81.2,18.8,54.2,Operational
+2025-08-31,August,8,2025,Green Line,Banashankari,0.778,0.97,1.748,28.93,0.506,66.9,33.1,68.9,Operational
+2025-08-31,August,8,2025,Green Line,Jaya Prakash Nagar,0.518,1.119,1.637,30.22,0.495,64.7,35.3,58.9,Operational
+2025-08-31,August,8,2025,Green Line,Yelachenahalli,0.892,0.57,1.463,34.48,0.504,68.3,31.7,65.3,Operational
+2025-08-31,August,8,2025,Green Line,Konanakunte Cross,1.09,0.698,1.789,31.42,0.562,65.9,34.1,70.2,Operational
+2025-08-31,August,8,2025,Green Line,Doddakallasandra,0.475,0.864,1.339,28.19,0.377,71.5,28.5,65.6,Operational
+2025-08-31,August,8,2025,Green Line,Vajarahalli,0.758,0.754,1.512,29.67,0.449,60.8,39.2,70.1,Operational
+2025-08-31,August,8,2025,Green Line,Thalaghattapura,0.826,0.359,1.185,28.88,0.342,59.7,40.3,40.4,Operational
+2025-08-31,August,8,2025,Green Line,Silk Institute,0.653,0.902,1.554,33.99,0.528,70.5,29.5,52.7,Operational
+2025-08-31,August,8,2025,Yellow Line,Ragigudda,0.691,0.505,1.197,26.26,0.314,58.8,41.2,39.0,Operational
+2025-08-31,August,8,2025,Yellow Line,Jayadeva Hospital,0.522,0.616,1.138,27.76,0.316,64.7,35.3,48.7,Operational
+2025-08-31,August,8,2025,Yellow Line,BTM Layout,0.722,0.351,1.073,29.94,0.321,60.0,40.0,51.0,Operational
+2025-08-31,August,8,2025,Yellow Line,Central Silk Board,0.307,0.498,0.804,30.44,0.245,72.1,27.9,71.7,Operational
+2025-08-31,August,8,2025,Yellow Line,Bommanahalli,0.704,0.389,1.094,27.17,0.297,61.8,38.2,76.0,Operational
+2025-08-31,August,8,2025,Yellow Line,Hongasandra,0.361,0.749,1.11,30.23,0.336,82.6,17.4,55.1,Operational
+2025-08-31,August,8,2025,Yellow Line,Kudlu Gate,0.742,0.999,1.741,26.46,0.461,55.7,44.3,37.4,Operational
+2025-08-31,August,8,2025,Yellow Line,Singasandra,0.743,0.249,0.992,27.07,0.269,71.5,28.5,62.2,Operational
+2025-08-31,August,8,2025,Yellow Line,Hosa Road,0.685,0.628,1.313,31.2,0.41,60.4,39.6,51.9,Operational
+2025-08-31,August,8,2025,Yellow Line,Beratena Agrahara,0.445,0.737,1.183,30.25,0.358,71.6,28.4,74.2,Operational
+2025-08-31,August,8,2025,Yellow Line,Electronic City,0.364,0.888,1.252,31.81,0.398,73.9,26.1,81.4,Operational
+2025-08-31,August,8,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.269,0.494,0.762,26.16,0.199,73.8,26.2,47.4,Operational
+2025-08-31,August,8,2025,Yellow Line,Huskur Road,0.751,0.835,1.586,29.74,0.472,70.3,29.7,48.1,Operational
+2025-08-31,August,8,2025,Yellow Line,Biocon Hebbagodi,0.431,0.813,1.244,29.95,0.373,67.7,32.3,55.0,Operational
+2025-08-31,August,8,2025,Yellow Line,Delta Electronics Bommasandra,0.195,0.395,0.59,32.78,0.193,57.8,42.2,62.3,Operational
+2025-09-30,September,9,2025,Purple Line,Challaghatta,1.401,0.95,2.352,35.55,0.836,75.5,24.5,60.1,Operational
+2025-09-30,September,9,2025,Purple Line,Kengeri,1.774,0.876,2.649,38.18,1.011,66.6,33.4,69.3,Operational
+2025-09-30,September,9,2025,Purple Line,Kengeri Bus Terminal,1.288,1.044,2.332,35.69,0.832,53.1,46.9,67.2,Operational
+2025-09-30,September,9,2025,Purple Line,Pattanagere,1.26,1.291,2.551,38.17,0.974,70.9,29.1,61.8,Operational
+2025-09-30,September,9,2025,Purple Line,Jnanabharathi,1.024,1.048,2.072,38.56,0.799,79.5,20.5,57.1,Operational
+2025-09-30,September,9,2025,Purple Line,Rajarajeshwari Nagar,1.209,1.013,2.222,38.52,0.856,73.3,26.7,83.3,Operational
+2025-09-30,September,9,2025,Purple Line,Pantharapalya - Nayandahalli,1.024,1.108,2.132,35.69,0.761,73.2,26.8,57.4,Operational
+2025-09-30,September,9,2025,Purple Line,Mysuru Road,1.025,1.335,2.36,37.16,0.877,60.7,39.3,76.3,Operational
+2025-09-30,September,9,2025,Purple Line,Deepanjali Nagar,1.434,1.2,2.634,35.24,0.928,72.4,27.6,49.7,Operational
+2025-09-30,September,9,2025,Purple Line,Attiguppe,1.206,0.789,1.995,37.63,0.751,55.5,44.5,78.0,Operational
+2025-09-30,September,9,2025,Purple Line,Vijayanagar,1.134,1.138,2.272,33.12,0.752,65.7,34.3,77.0,Operational
+2025-09-30,September,9,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",0.702,1.406,2.108,36.01,0.759,58.3,41.7,47.1,Operational
+2025-09-30,September,9,2025,Purple Line,Magadi Road,1.535,1.006,2.541,31.54,0.801,77.1,22.9,64.1,Operational
+2025-09-30,September,9,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,1.012,1.215,2.227,31.92,0.711,76.8,23.2,72.7,Operational
+2025-09-30,September,9,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",2.746,2.652,5.399,40.28,2.175,68.0,32.0,45.8,Operational
+2025-09-30,September,9,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.29,1.551,2.841,31.96,0.908,65.1,34.9,65.0,Operational
+2025-09-30,September,9,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.189,0.999,2.188,38.37,0.84,86.6,13.4,62.4,Operational
+2025-09-30,September,9,2025,Purple Line,Cubbon Park,1.019,0.897,1.916,35.77,0.685,76.8,23.2,65.7,Operational
+2025-09-30,September,9,2025,Purple Line,M.G. Road,1.2,1.07,2.269,31.72,0.72,74.7,25.3,71.0,Operational
+2025-09-30,September,9,2025,Purple Line,Trinity,0.891,1.462,2.353,36.72,0.864,79.2,20.8,43.9,Operational
+2025-09-30,September,9,2025,Purple Line,Halasuru,0.927,1.149,2.076,36.51,0.758,82.4,17.6,68.5,Operational
+2025-09-30,September,9,2025,Purple Line,Indiranagar,1.151,0.991,2.143,38.69,0.829,60.3,39.7,79.5,Operational
+2025-09-30,September,9,2025,Purple Line,Swami Vivekananda Road,1.143,1.462,2.605,37.04,0.965,66.9,33.1,53.8,Operational
+2025-09-30,September,9,2025,Purple Line,Baiyappanahalli,1.132,1.253,2.385,35.23,0.84,63.2,36.8,58.0,Operational
+2025-09-30,September,9,2025,Purple Line,Benniganahalli,1.216,0.793,2.009,36.37,0.731,60.2,39.8,46.2,Operational
+2025-09-30,September,9,2025,Purple Line,K.R. Pura,0.863,0.853,1.716,30.93,0.531,62.3,37.7,83.4,Operational
+2025-09-30,September,9,2025,Purple Line,Singayyanapalya,1.095,1.208,2.303,36.2,0.834,69.0,31.0,59.1,Operational
+2025-09-30,September,9,2025,Purple Line,Garudacharapalya,0.961,1.437,2.398,40.42,0.969,54.5,45.5,47.7,Operational
+2025-09-30,September,9,2025,Purple Line,Hoodi,1.144,1.002,2.146,36.52,0.784,62.2,37.8,86.0,Operational
+2025-09-30,September,9,2025,Purple Line,Seetharamapalya,1.438,1.214,2.652,38.08,1.01,76.8,23.2,53.2,Operational
+2025-09-30,September,9,2025,Purple Line,Kundalahalli,1.037,1.19,2.227,37.58,0.837,69.1,30.9,41.1,Operational
+2025-09-30,September,9,2025,Purple Line,Nallur Halli,1.039,1.163,2.202,34.77,0.766,83.8,16.2,43.4,Operational
+2025-09-30,September,9,2025,Purple Line,Sri Sathya Sai Hospital,1.301,1.444,2.745,41.81,1.148,64.8,35.2,65.9,Operational
+2025-09-30,September,9,2025,Purple Line,Pattandur Agrahara,1.314,1.211,2.525,34.7,0.876,71.5,28.5,29.6,Operational
+2025-09-30,September,9,2025,Purple Line,Kadugodi Tree Park,1.336,1.199,2.535,34.33,0.87,84.4,15.6,51.9,Operational
+2025-09-30,September,9,2025,Purple Line,Hopefarm Channasandra,1.119,1.534,2.654,32.5,0.863,63.6,36.4,58.2,Operational
+2025-09-30,September,9,2025,Purple Line,Whitefield (Kadugodi),1.368,1.213,2.582,31.12,0.804,63.7,36.3,52.7,Operational
+2025-09-30,September,9,2025,Green Line,Madavara,0.885,0.959,1.843,31.25,0.576,53.8,46.2,72.8,Operational
+2025-09-30,September,9,2025,Green Line,Chikkabidarakallu,0.951,1.131,2.082,31.33,0.652,76.8,23.2,65.6,Operational
+2025-09-30,September,9,2025,Green Line,Manjunatha Nagar,1.169,0.976,2.145,29.71,0.637,86.2,13.8,70.7,Operational
+2025-09-30,September,9,2025,Green Line,Nagasandra,1.015,0.652,1.667,26.14,0.436,70.3,29.7,61.7,Operational
+2025-09-30,September,9,2025,Green Line,Dasarahalli,0.777,0.907,1.685,34.77,0.586,73.6,26.4,46.3,Operational
+2025-09-30,September,9,2025,Green Line,Jalahalli,0.878,0.737,1.615,28.84,0.466,64.7,35.3,54.3,Operational
+2025-09-30,September,9,2025,Green Line,Peenya Industry,0.649,0.859,1.508,28.32,0.427,44.6,55.4,84.6,Operational
+2025-09-30,September,9,2025,Green Line,Peenya,1.118,0.814,1.932,30.06,0.581,58.6,41.4,80.3,Operational
+2025-09-30,September,9,2025,Green Line,Goragunte Palya,1.279,0.91,2.19,33.07,0.724,69.4,30.6,44.0,Operational
+2025-09-30,September,9,2025,Green Line,Yeshwanthpur,0.818,0.906,1.723,28.64,0.493,66.3,33.7,58.9,Operational
+2025-09-30,September,9,2025,Green Line,Sandal Soap Factory,0.884,0.891,1.775,26.82,0.476,62.3,37.7,44.6,Operational
+2025-09-30,September,9,2025,Green Line,Mahalakshmi,1.096,0.503,1.599,33.46,0.535,79.1,20.9,56.4,Operational
+2025-09-30,September,9,2025,Green Line,Rajajinagar,0.379,0.817,1.196,29.81,0.357,59.9,40.1,53.8,Operational
+2025-09-30,September,9,2025,Green Line,Mahakavi Kuvempu Road,1.206,1.002,2.208,27.23,0.601,55.2,44.8,56.1,Operational
+2025-09-30,September,9,2025,Green Line,Srirampura,0.857,0.971,1.829,28.39,0.519,72.1,27.9,83.2,Operational
+2025-09-30,September,9,2025,Green Line,Mantri Square Sampige Road,1.063,0.873,1.936,29.45,0.57,65.1,34.9,74.2,Operational
+2025-09-30,September,9,2025,Green Line,Chickpete,0.775,0.89,1.665,30.15,0.502,64.0,36.0,43.5,Operational
+2025-09-30,September,9,2025,Green Line,Krishna Rajendra Market,0.965,0.871,1.836,31.5,0.578,63.7,36.3,74.6,Operational
+2025-09-30,September,9,2025,Green Line,National College,0.725,1.19,1.915,24.76,0.474,71.5,28.5,65.7,Operational
+2025-09-30,September,9,2025,Green Line,Lalbagh,0.741,0.958,1.699,33.84,0.575,50.3,49.7,66.0,Operational
+2025-09-30,September,9,2025,Green Line,South End Circle,0.401,0.708,1.11,34.89,0.387,63.3,36.7,45.9,Operational
+2025-09-30,September,9,2025,Green Line,Jayanagar,0.86,1.254,2.115,24.5,0.518,59.6,40.4,78.0,Operational
+2025-09-30,September,9,2025,Green Line,Rashtreeya Vidyalaya Road,1.992,1.569,3.561,26.28,0.936,84.8,15.2,79.1,Operational
+2025-09-30,September,9,2025,Green Line,Banashankari,1.036,0.736,1.772,29.85,0.529,66.7,33.3,64.0,Operational
+2025-09-30,September,9,2025,Green Line,Jaya Prakash Nagar,1.19,1.04,2.23,26.77,0.597,79.0,21.0,63.8,Operational
+2025-09-30,September,9,2025,Green Line,Yelachenahalli,1.037,1.146,2.183,26.67,0.582,67.7,32.3,53.6,Operational
+2025-09-30,September,9,2025,Green Line,Konanakunte Cross,0.586,0.944,1.531,37.53,0.575,53.3,46.7,59.6,Operational
+2025-09-30,September,9,2025,Green Line,Doddakallasandra,1.028,0.904,1.932,29.66,0.573,57.6,42.4,62.8,Operational
+2025-09-30,September,9,2025,Green Line,Vajarahalli,0.749,0.488,1.236,33.58,0.415,75.7,24.3,60.6,Operational
+2025-09-30,September,9,2025,Green Line,Thalaghattapura,0.946,1.075,2.021,30.67,0.62,75.2,24.8,56.4,Operational
+2025-09-30,September,9,2025,Green Line,Silk Institute,1.162,0.94,2.102,30.58,0.643,57.8,42.2,63.4,Operational
+2025-09-30,September,9,2025,Yellow Line,Ragigudda,0.434,0.473,0.907,25.96,0.235,59.5,40.5,85.5,Operational
+2025-09-30,September,9,2025,Yellow Line,Jayadeva Hospital,0.866,0.934,1.8,24.94,0.449,68.6,31.4,44.5,Operational
+2025-09-30,September,9,2025,Yellow Line,BTM Layout,0.461,0.423,0.884,31.1,0.275,64.8,35.2,72.8,Operational
+2025-09-30,September,9,2025,Yellow Line,Central Silk Board,0.721,1.003,1.723,24.3,0.419,78.1,21.9,73.8,Operational
+2025-09-30,September,9,2025,Yellow Line,Bommanahalli,0.405,0.769,1.175,28.84,0.339,66.2,33.8,50.1,Operational
+2025-09-30,September,9,2025,Yellow Line,Hongasandra,0.456,0.957,1.413,28.0,0.396,74.3,25.7,50.5,Operational
+2025-09-30,September,9,2025,Yellow Line,Kudlu Gate,0.444,0.783,1.227,24.63,0.302,64.7,35.3,60.4,Operational
+2025-09-30,September,9,2025,Yellow Line,Singasandra,0.622,0.556,1.178,28.99,0.342,73.5,26.5,68.8,Operational
+2025-09-30,September,9,2025,Yellow Line,Hosa Road,0.403,0.537,0.94,30.99,0.291,75.2,24.8,43.5,Operational
+2025-09-30,September,9,2025,Yellow Line,Beratena Agrahara,0.67,0.232,0.902,28.12,0.254,83.2,16.8,48.6,Operational
+2025-09-30,September,9,2025,Yellow Line,Electronic City,0.433,0.726,1.159,24.14,0.28,62.9,37.1,67.2,Operational
+2025-09-30,September,9,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.473,0.546,1.019,29.86,0.304,71.4,28.6,63.2,Operational
+2025-09-30,September,9,2025,Yellow Line,Huskur Road,0.532,0.655,1.187,27.69,0.329,71.7,28.3,54.0,Operational
+2025-09-30,September,9,2025,Yellow Line,Biocon Hebbagodi,0.563,0.41,0.973,27.91,0.272,61.5,38.5,46.6,Operational
+2025-09-30,September,9,2025,Yellow Line,Delta Electronics Bommasandra,0.652,0.626,1.278,29.96,0.383,64.6,35.4,64.9,Operational
+2025-10-31,October,10,2025,Purple Line,Challaghatta,1.49,1.432,2.923,32.52,0.951,69.2,30.8,64.4,Operational
+2025-10-31,October,10,2025,Purple Line,Kengeri,1.381,0.977,2.358,35.48,0.837,85.7,14.3,55.7,Operational
+2025-10-31,October,10,2025,Purple Line,Kengeri Bus Terminal,1.234,1.42,2.654,35.94,0.954,77.5,22.5,44.9,Operational
+2025-10-31,October,10,2025,Purple Line,Pattanagere,1.526,1.459,2.985,34.57,1.032,70.7,29.3,72.4,Operational
+2025-10-31,October,10,2025,Purple Line,Jnanabharathi,1.554,1.147,2.701,37.46,1.012,67.5,32.5,60.9,Operational
+2025-10-31,October,10,2025,Purple Line,Rajarajeshwari Nagar,1.395,1.325,2.72,38.58,1.049,67.3,32.7,46.6,Operational
+2025-10-31,October,10,2025,Purple Line,Pantharapalya - Nayandahalli,1.301,1.385,2.686,38.69,1.039,72.8,27.2,49.8,Operational
+2025-10-31,October,10,2025,Purple Line,Mysuru Road,1.877,1.4,3.277,38.83,1.272,66.8,33.2,66.4,Operational
+2025-10-31,October,10,2025,Purple Line,Deepanjali Nagar,1.548,1.572,3.12,38.17,1.191,75.0,25.0,56.2,Operational
+2025-10-31,October,10,2025,Purple Line,Attiguppe,1.266,1.412,2.678,37.8,1.012,66.2,33.8,72.8,Operational
+2025-10-31,October,10,2025,Purple Line,Vijayanagar,1.671,1.187,2.858,32.49,0.929,66.9,33.1,63.7,Operational
+2025-10-31,October,10,2025,Purple Line,"Sri Balagangadaranatha Swamiji Station, Hosahalli",1.275,1.596,2.871,36.27,1.041,68.3,31.7,42.8,Operational
+2025-10-31,October,10,2025,Purple Line,Magadi Road,1.117,1.403,2.52,28.6,0.721,76.1,23.9,58.1,Operational
+2025-10-31,October,10,2025,Purple Line,Krantivira Sangolli Rayanna Railway Station,2.029,1.768,3.796,34.46,1.308,67.1,32.9,71.9,Operational
+2025-10-31,October,10,2025,Purple Line,"Nadaprabhu Kempegowda Station, Majestic",3.377,2.68,6.057,29.64,1.795,63.0,37.0,67.0,Operational
+2025-10-31,October,10,2025,Purple Line,"Sir M. Visvesvaraya Station, Central College",1.479,1.545,3.024,31.4,0.95,49.5,50.5,70.3,Operational
+2025-10-31,October,10,2025,Purple Line,"Dr. B. R. Ambedkar Station, Vidhana Soudha",1.214,0.989,2.203,35.44,0.781,74.3,25.7,58.5,Operational
+2025-10-31,October,10,2025,Purple Line,Cubbon Park,1.288,1.324,2.612,33.89,0.885,57.2,42.8,51.4,Operational
+2025-10-31,October,10,2025,Purple Line,M.G. Road,1.484,1.41,2.895,35.5,1.028,60.0,40.0,57.8,Operational
+2025-10-31,October,10,2025,Purple Line,Trinity,0.945,1.385,2.329,39.29,0.915,56.2,43.8,53.0,Operational
+2025-10-31,October,10,2025,Purple Line,Halasuru,1.446,1.578,3.024,33.66,1.018,62.5,37.5,36.4,Operational
+2025-10-31,October,10,2025,Purple Line,Indiranagar,1.401,1.72,3.121,35.83,1.118,67.8,32.2,63.9,Operational
+2025-10-31,October,10,2025,Purple Line,Swami Vivekananda Road,1.378,1.206,2.584,37.47,0.968,69.8,30.2,60.2,Operational
+2025-10-31,October,10,2025,Purple Line,Baiyappanahalli,1.185,1.587,2.772,36.99,1.025,63.6,36.4,72.0,Operational
+2025-10-31,October,10,2025,Purple Line,Benniganahalli,1.28,1.212,2.492,32.72,0.815,53.8,46.2,65.7,Operational
+2025-10-31,October,10,2025,Purple Line,K.R. Pura,1.014,1.131,2.145,28.77,0.617,67.3,32.7,58.2,Operational
+2025-10-31,October,10,2025,Purple Line,Singayyanapalya,1.315,1.165,2.479,31.48,0.78,71.7,28.3,53.4,Operational
+2025-10-31,October,10,2025,Purple Line,Garudacharapalya,1.443,1.193,2.636,35.54,0.937,78.4,21.6,67.0,Operational
+2025-10-31,October,10,2025,Purple Line,Hoodi,1.298,1.399,2.696,34.28,0.924,68.1,31.9,56.1,Operational
+2025-10-31,October,10,2025,Purple Line,Seetharamapalya,1.347,1.391,2.738,32.02,0.877,59.9,40.1,43.3,Operational
+2025-10-31,October,10,2025,Purple Line,Kundalahalli,1.06,1.133,2.193,35.48,0.778,60.9,39.1,66.2,Operational
+2025-10-31,October,10,2025,Purple Line,Nallur Halli,1.387,0.998,2.385,36.96,0.881,74.5,25.5,48.1,Operational
+2025-10-31,October,10,2025,Purple Line,Sri Sathya Sai Hospital,1.464,1.198,2.662,35.29,0.939,57.9,42.1,38.5,Operational
+2025-10-31,October,10,2025,Purple Line,Pattandur Agrahara,1.303,1.33,2.634,33.81,0.891,58.5,41.5,55.2,Operational
+2025-10-31,October,10,2025,Purple Line,Kadugodi Tree Park,1.434,1.344,2.778,35.55,0.988,62.6,37.4,74.1,Operational
+2025-10-31,October,10,2025,Purple Line,Hopefarm Channasandra,1.145,1.44,2.585,38.55,0.997,71.8,28.2,57.6,Operational
+2025-10-31,October,10,2025,Purple Line,Whitefield (Kadugodi),1.274,1.539,2.813,30.73,0.864,60.2,39.8,55.2,Operational
+2025-10-31,October,10,2025,Green Line,Madavara,1.283,1.083,2.365,27.1,0.641,65.5,34.5,52.6,Operational
+2025-10-31,October,10,2025,Green Line,Chikkabidarakallu,0.893,1.191,2.084,25.88,0.539,80.9,19.1,69.9,Operational
+2025-10-31,October,10,2025,Green Line,Manjunatha Nagar,1.253,0.931,2.184,29.55,0.645,56.5,43.5,53.7,Operational
+2025-10-31,October,10,2025,Green Line,Nagasandra,1.134,1.248,2.381,26.68,0.635,65.1,34.9,58.2,Operational
+2025-10-31,October,10,2025,Green Line,Dasarahalli,0.756,1.121,1.877,27.83,0.522,66.4,33.6,54.6,Operational
+2025-10-31,October,10,2025,Green Line,Jalahalli,0.877,1.013,1.89,29.35,0.555,65.0,35.0,51.3,Operational
+2025-10-31,October,10,2025,Green Line,Peenya Industry,1.099,1.312,2.411,30.42,0.733,76.0,24.0,43.3,Operational
+2025-10-31,October,10,2025,Green Line,Peenya,1.067,0.817,1.883,25.57,0.481,62.1,37.9,74.3,Operational
+2025-10-31,October,10,2025,Green Line,Goragunte Palya,1.225,1.058,2.283,25.4,0.58,66.4,33.6,63.6,Operational
+2025-10-31,October,10,2025,Green Line,Yeshwanthpur,1.07,0.682,1.753,27.33,0.479,67.5,32.5,66.4,Operational
+2025-10-31,October,10,2025,Green Line,Sandal Soap Factory,0.596,0.985,1.581,30.43,0.481,74.8,25.2,68.3,Operational
+2025-10-31,October,10,2025,Green Line,Mahalakshmi,1.152,0.87,2.022,24.28,0.491,64.9,35.1,72.0,Operational
+2025-10-31,October,10,2025,Green Line,Rajajinagar,1.314,1.142,2.456,31.29,0.768,71.0,29.0,53.3,Operational
+2025-10-31,October,10,2025,Green Line,Mahakavi Kuvempu Road,1.009,1.315,2.324,27.17,0.631,80.9,19.1,56.1,Operational
+2025-10-31,October,10,2025,Green Line,Srirampura,1.3,0.761,2.061,31.76,0.655,62.1,37.9,43.0,Operational
+2025-10-31,October,10,2025,Green Line,Mantri Square Sampige Road,1.079,1.196,2.275,27.47,0.625,56.0,44.0,58.9,Operational
+2025-10-31,October,10,2025,Green Line,Chickpete,1.018,1.113,2.131,32.85,0.7,67.5,32.5,82.3,Operational
+2025-10-31,October,10,2025,Green Line,Krishna Rajendra Market,1.08,0.952,2.032,25.17,0.511,65.9,34.1,56.0,Operational
+2025-10-31,October,10,2025,Green Line,National College,1.227,1.098,2.325,26.46,0.615,69.4,30.6,68.1,Operational
+2025-10-31,October,10,2025,Green Line,Lalbagh,1.341,1.174,2.515,32.28,0.812,68.5,31.5,64.7,Operational
+2025-10-31,October,10,2025,Green Line,South End Circle,1.285,0.774,2.059,28.95,0.596,61.8,38.2,64.5,Operational
+2025-10-31,October,10,2025,Green Line,Jayanagar,1.281,0.907,2.188,22.83,0.5,64.7,35.3,71.0,Operational
+2025-10-31,October,10,2025,Green Line,Rashtreeya Vidyalaya Road,1.971,1.903,3.873,29.16,1.129,57.8,42.2,66.2,Operational
+2025-10-31,October,10,2025,Green Line,Banashankari,0.868,1.407,2.276,31.71,0.722,63.4,36.6,52.7,Operational
+2025-10-31,October,10,2025,Green Line,Jaya Prakash Nagar,1.016,0.971,1.988,33.35,0.663,69.5,30.5,51.2,Operational
+2025-10-31,October,10,2025,Green Line,Yelachenahalli,1.413,1.023,2.436,32.31,0.787,63.1,36.9,64.4,Operational
+2025-10-31,October,10,2025,Green Line,Konanakunte Cross,1.097,0.674,1.771,36.05,0.638,78.3,21.7,55.2,Operational
+2025-10-31,October,10,2025,Green Line,Doddakallasandra,0.815,1.077,1.891,30.26,0.572,70.8,29.2,62.3,Operational
+2025-10-31,October,10,2025,Green Line,Vajarahalli,1.136,1.275,2.411,31.7,0.764,59.6,40.4,76.4,Operational
+2025-10-31,October,10,2025,Green Line,Thalaghattapura,1.363,1.582,2.945,26.63,0.784,69.9,30.1,35.0,Operational
+2025-10-31,October,10,2025,Green Line,Silk Institute,1.146,0.916,2.061,35.77,0.737,61.8,38.2,39.7,Operational
+2025-10-31,October,10,2025,Yellow Line,Ragigudda,0.596,0.321,0.916,29.88,0.274,51.5,48.5,60.3,Operational
+2025-10-31,October,10,2025,Yellow Line,Jayadeva Hospital,0.274,0.619,0.893,32.11,0.287,70.9,29.1,49.6,Operational
+2025-10-31,October,10,2025,Yellow Line,BTM Layout,0.684,0.679,1.363,29.18,0.398,57.1,42.9,67.1,Operational
+2025-10-31,October,10,2025,Yellow Line,Central Silk Board,0.149,0.563,0.712,26.78,0.191,73.1,26.9,60.3,Operational
+2025-10-31,October,10,2025,Yellow Line,Bommanahalli,0.409,0.499,0.908,28.5,0.259,67.4,32.6,53.1,Operational
+2025-10-31,October,10,2025,Yellow Line,Hongasandra,0.594,0.802,1.395,26.71,0.373,67.3,32.7,86.0,Operational
+2025-10-31,October,10,2025,Yellow Line,Kudlu Gate,0.405,0.343,0.748,29.96,0.224,62.6,37.4,56.2,Operational
+2025-10-31,October,10,2025,Yellow Line,Singasandra,0.534,0.629,1.163,32.0,0.372,74.4,25.6,70.3,Operational
+2025-10-31,October,10,2025,Yellow Line,Hosa Road,0.407,0.469,0.876,20.9,0.183,61.5,38.5,71.5,Operational
+2025-10-31,October,10,2025,Yellow Line,Beratena Agrahara,0.793,0.636,1.43,27.94,0.4,62.5,37.5,62.5,Operational
+2025-10-31,October,10,2025,Yellow Line,Electronic City,0.843,0.385,1.229,28.75,0.353,75.5,24.5,55.0,Operational
+2025-10-31,October,10,2025,Yellow Line,Infosys Foundation Konappana Agrahara,0.83,1.183,2.013,27.74,0.558,71.1,28.9,51.1,Operational
+2025-10-31,October,10,2025,Yellow Line,Huskur Road,0.726,0.759,1.485,28.49,0.423,59.8,40.2,62.5,Operational
+2025-10-31,October,10,2025,Yellow Line,Biocon Hebbagodi,0.982,0.757,1.739,30.4,0.529,66.1,33.9,69.0,Operational
+2025-10-31,October,10,2025,Yellow Line,Delta Electronics Bommasandra,0.746,0.505,1.251,28.8,0.36,60.1,39.9,52.4,Operational

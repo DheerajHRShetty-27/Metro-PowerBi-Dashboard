@@ -1,0 +1,86 @@
+Station_ID,Station_Name,Line_Name,Latitude,Longitude
+1000,Challaghatta,Purple Line,12.89764292,77.46121973
+1001,Kengeri,Purple Line,12.9080467,77.47649825
+1002,Kengeri Bus Terminal,Purple Line,12.91468867,77.48771349
+1003,Pattanagere,Purple Line,12.92431978,77.49827066
+1004,Jnanabharathi,Purple Line,12.93546673,77.51222888
+1005,Rajarajeshwari Nagar,Purple Line,12.93675289,77.51953521
+1006,Pantharapalya - Nayandahalli,Purple Line,12.94185132,77.52515757
+1007,Mysuru Road,Purple Line,12.94676574,77.53003919
+1008,Deepanjali Nagar,Purple Line,12.95222924,77.53712427
+1009,Attiguppe,Purple Line,12.9621203,77.53370177
+1010,Vijayanagar,Purple Line,12.97080862,77.53732811
+1011,"Sri Balagangadaranatha Swamiji Station, Hosahalli",Purple Line,12.97430311,77.54540526
+1012,Magadi Road,Purple Line,12.97563205,77.55538861
+1013,Krantivira Sangolli Rayanna Railway Station,Purple Line,12.97579933,77.5657634
+1014,"Nadaprabhu Kempegowda Station, Majestic",Purple Line,12.97567627,77.57283332
+1015,"Sir M. Visvesvaraya Station, Central College",Purple Line,12.97429935,77.58396291
+1016,"Dr. B. R. Ambedkar Station, Vidhana Soudha",Purple Line,12.97973586,77.59263181
+1017,Cubbon Park,Purple Line,12.98090678,77.59745978
+1018,M.G. Road,Purple Line,12.97553454,77.60664993
+1019,Trinity,Purple Line,12.97303459,77.61677497
+1020,Halasuru,Purple Line,12.9763488,77.6267206
+1021,Indiranagar,Purple Line,12.97827249,77.6384794
+1022,Swami Vivekananda Road,Purple Line,12.98585208,77.64500254
+1023,Baiyappanahalli,Purple Line,12.99080744,77.65233033
+1024,Benniganahalli,Purple Line,12.99641086,77.66826265
+1025,K.R. Pura,Purple Line,12.99993383,77.6776182
+1026,Singayyanapalya,Purple Line,12.99660948,77.69267075
+1027,Garudacharapalya,Purple Line,12.99345977,77.70365793
+1028,Hoodi,Purple Line,12.98879172,77.71130246
+1029,Seetharamapalya,Purple Line,12.98096003,77.7087023
+1030,Kundalahalli,Purple Line,12.9776533,77.71548758
+1031,Nallur Halli,Purple Line,12.97663918,77.72474656
+1032,Sri Sathya Sai Hospital,Purple Line,12.98121694,77.72754715
+1033,Pattandur Agrahara,Purple Line,12.98768656,77.73764168
+1034,Kadugodi Tree Park,Purple Line,12.98575346,77.74677111
+1035,Hopefarm Channasandra,Purple Line,12.98728032,77.75378164
+1036,Whitefield (Kadugodi),Purple Line,12.99562886,77.7578117
+1037,Madavara,Green Line,13.05748466,77.47295488
+1038,Chikkabidarakallu,Green Line,13.05241433,77.48787892
+1039,Manjunatha Nagar,Green Line,13.05013174,77.49439686
+1040,Nagasandra,Green Line,13.04813879,77.50014168
+1041,Dasarahalli,Green Line,13.04357349,77.51233306
+1042,Jalahalli,Green Line,13.03970335,77.51982631
+1043,Peenya Industry,Green Line,13.03647047,77.52551166
+1044,Peenya,Green Line,13.03294784,77.53346877
+1045,Goragunte Palya,Green Line,13.02845993,77.54081852
+1046,Yeshwanthpur,Green Line,13.02324903,77.54985193
+1047,Sandal Soap Factory,Green Line,13.01471362,77.55403041
+1048,Mahalakshmi,Green Line,13.00833313,77.54881395
+1049,Rajajinagar,Green Line,13.00034577,77.54974658
+1050,Mahakavi Kuvempu Road,Green Line,12.99848668,77.55695214
+1051,Srirampura,Green Line,12.99651725,77.56339191
+1052,Mantri Square Sampige Road,Green Line,12.99052703,77.57080554
+1053,"Nadaprabhu Kempegowda Station, Majestic",Green Line,12.97567627,77.57283332
+1054,Chickpete,Green Line,12.96754615,77.57478672
+1055,Krishna Rajendra Market,Green Line,12.96013218,77.57446069
+1056,National College,Green Line,12.95060296,77.57376622
+1057,Lalbagh,Green Line,12.94629779,77.58005018
+1058,South End Circle,Green Line,12.93830414,77.58007281
+1059,Jayanagar,Green Line,12.92966997,77.58016145
+1060,Rashtreeya Vidyalaya Road,Green Line,12.92159799,77.58026767
+1061,Banashankari,Green Line,12.91556958,77.57362285
+1062,Jaya Prakash Nagar,Green Line,12.90754758,77.57307053
+1063,Yelachenahalli,Green Line,12.89605468,77.57015045
+1064,Konanakunte Cross,Green Line,12.88891212,77.56277421
+1065,Doddakallasandra,Green Line,12.88464442,77.5528196
+1066,Vajarahalli,Green Line,12.87748757,77.54481229
+1067,Thalaghattapura,Green Line,12.87138029,77.53844281
+1068,Silk Institute,Green Line,12.86168285,77.52997078
+1069,Rashtreeya Vidyalaya Road,Yellow Line,12.92159799,77.58024997
+1070,Ragigudda,Yellow Line,12.91692996,77.58816582
+1071,Jayadeva Hospital,Yellow Line,12.91665901,77.59992886
+1072,BTM Layout,Yellow Line,12.91653067,77.60807813
+1073,Central Silk Board,Yellow Line,12.91652238,77.62044634
+1074,Bommanahalli,Yellow Line,12.91064488,77.62639752
+1075,Hongasandra,Yellow Line,12.90162187,77.63194356
+1076,Kudlu Gate,Yellow Line,12.88980888,77.63917287
+1077,Singasandra,Yellow Line,12.88065352,77.64479793
+1078,Hosa Road,Yellow Line,12.8706907,77.65235924
+1079,Beratena Agrahara,Yellow Line,12.86368225,77.65790255
+1080,Electronic City,Yellow Line,12.85644771,77.66345567
+1081,Infosys Foundation Konappana Agrahara,Yellow Line,12.84625927,77.67114452
+1082,Huskur Road,Yellow Line,12.83888338,77.67742549
+1083,Biocon Hebbagodi,Yellow Line,12.82895943,77.68140577
+1084,Delta Electronics Bommasandra,Yellow Line,12.81935772,77.68834464
