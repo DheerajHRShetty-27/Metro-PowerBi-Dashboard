@@ -1,6 +1,6 @@
 # 🚇 Bengaluru Metro Ridership & Revenue Analysis (Jan–Oct 2025)
 
-![Dashboard Preview](Screenshot2025-12-05214308.png)
+![Dashboard Preview](pic.png)
 
 This project presents an interactive **Power BI dashboard** analyzing **Namma Metro (Bengaluru)** ridership, occupancy, and revenue trends from **January to October 2025**.  
 Using multiple datasets (ridership, stations, lines, fare matrix), it provides insights into passenger behavior and operational performance across metro lines.
